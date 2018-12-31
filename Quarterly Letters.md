@@ -147,5 +147,110 @@ Gurley’s piece was certainly damning of company operators, but it was also tru
 
 It is for these reasons that every investment opportunity must be viewed through the lens of: how likely is it that this company and this management team will become a consolidator in their category. Companies with good metrics but facing headwinds from competitors with bigger balance sheets and better product teams will be unlikely to find the financing to survive. Big outcomes, those that generate a 10x+ return to LPs, are increasingly unlikely to come from “good businesses;” they are far more likely to come from category consolidators.
 
-**Q1 2018**
+## Q1 2018
+
+**LIQUIDITY**
+
+There is a fundamental macro shift developing in the venture markets that is worth focusing on: the increasing access to liquidity.  
+
+My entire career in venture capital has been defined by illiquidity. Coming out of the great recession, the IPO markets effectively closed, and the abundance of private market cash (and historically low cost of capital) enabled companies to defer public offerings, and stay private in perpetuity.
+
+During this decade long period since 2008, investors in early stage venture have become habituated to expect 10-15 year cycles of dry illiquidity. And although the 2007 venture vintage – which includes firms such as Uber, Airbnb and Dropbox - is extraordinary on paper – funds raised since 2011 have been dismal in generating realized returns over that period. In spite of the record amount of MicroVC funds being raised ([500 since FY 2012](http://pevcbanker.com/what-you-need-to-know-before-raising-a-micro-vc-fund-today/)), many non-institutional LPs have left the market, waiting to see if they ever get liquid from their venture portfolios and retreating to more comfortable asset classes such as real estate and yield focused alt assets. This feels like a mistake. 
+
+I am seeing macro shifts developing that have the potential for generating record high levels of early liquidity for early stage fund managers. And if I’m right, it’s my sincere hope that I can begin to bend the liquidity curve forward substantially for my investors. I’m not capable of predicting whether this is a paradigm shift or merely temporary, but it very well could be sustained, and I’m excited by it. Here’s why:
+
+RISE OF THE MEGA FUNDS
+
+More than half a dozen bulge bracket venture funds have raised their largest funds since the dot com boom in the past 12 months, and in some cases, their largest funds ever. This includes: Sequoia Capital with $12B, NEA with $3.3B, Lightspeed with $1.8B, General Catalyst with $1.38B, Khosla Ventures with $1.4B, Battery Ventures with $1.25B, not to mention Softbank, investing out of a $100B venture fund, and the list goes on.
+
+These funds are looking to deploy their capital into what is already the most competitive and highly commoditized sector of the venture ecosystem: growth equity. Sure, each fund will sell a worthwhile narrative on their respective advantages, but at the end of the day, much of the valuation bloat in later stage venture is a result of an abundance of commoditized capital 
+
+Raising larger funds forces a subtle shift on fund managers as they work to deploy that capital. Venture managers have historically prioritized their cash-on-cash (gross multiple) returns and consequently graded businesses on their potential to deliver 3-5x+ returns. Mega funds, however, and their associated LP bases, are changing this constitution: prioritizing returns on an IRR basis. To do that effectively, managers must approach investments from a liquidity first perspective.
+
+That is a benefit to early stage managers who traditionally have worked closely with entrepreneurs for a period of 3-5 years to groom them for growth equity, only to re-start the 10-12 year fund clock when these growth equity firms enter the cap table. If, as I suspect, growth equity returns to its roots of guiding for shorter hold, high IRR returns, that will have a positive effect in creating liquidity faster for early stage managers who are dependent on these upstream firms to drive exit windows.
+
+There is a second, more immediate consequence of these mega funds: secondary liquidity. As funds look to put increasing amount of money to work, there is more opportunity than ever before to take money off the table in subsequent financing rounds to enable the growth equity funds to hit their ownership targets and for management to preserve dilution. 
+
+Anecdotally, I’ve been asked half a dozen times in the past quarter regarding three separate investments whether I’d be interested in “taking something off the table.” Very often, early stage funds will prefer to preserve their ownership and elect not to sell when given the opportunity; those who know me are aware I’m highly biased to swing for the fences as well. But this shift in capital concentration is likely to endure for at least the next five years meaning that The Starting Line Fund I should at least have optionality in procuring early liquidity at the Series B and Series C stage of early winners.
+
+SECURITIZED TOKENS
+
+For the past decade, multiple attempts have been made to create liquid trading markets for private company shares. Many may recall version 1.0 of these efforts, which I refer to as the “broker dealer phase.” Firms such as Second Market and Sharespost who facilitated direct share sales from employees/investors to private buyers. Version 2.0 was defined by the likes of Equityzen which pioneered a collateralized forward contract enabling early employees/shareholders to get liquid on 25-50% of their shares, without ever formally transferring the shares - using the remaining shares as a security collateral. Although many expect Carta (formerly eShares) to launch a trading market for secondary share sales of private companies, they have not yet provided guidance; therefore, in spite of the share sale leniencies presented by Regulation D, no real-time liquidity option has developed for shareholders of private market companies. In theory, this has yielded an “illiquidity discount” for shares of private startups.
+
+I hypothesize that securitized tokens will change that in the coming 2-3 years.
+
+Just this month, [Harbor](https://github.com/harborhq/r-token), incubated by David Sacks’ new studio, Craft Ventures, closed $28M from Founders Fund to build a regulatory approved series of smart contracts that can be hosted by exchanges and traded by individuals, without any fear of violating securities law. What this means in practice, is that any private security – issued only to accredited investors – that has not commenced any additional share sale in the prior 90 days, can be freely traded with other accredited individuals. After a full year, those tokens (previously shares) may be sold at will to the general public. Harbor has made a strategic decision to focus its launch on tokenizing real estate interests – which are historically difficult to fractionalize – but it’s only a matter of time until they turn their focus towards private market startups.
+
+In February, [Polymath](https://polymath.network/), backed by a who’s who of advisors from the crypto industry, raised $59M to build a strikingly similar KYC/Reg D compliant blockchain. [Securitize.io](https://www.securitize.io/) offers anyone the opportunity to tokenize a company or fund. More efforts are on the horizon as well.
+
+According to Regulation D, any startup that has not issued a new round of financing in the prior 12 month period is free to tokenize its existing equity – assuming all tangential regulations are met – and begin the free trading of its shares.
+
+Will this become commonplace? I have no idea. Is it good for Boards of Directors to have the option? Absolutely.
+
+Further, there’s one additional nuance. Alongside tokenizing existing equity, there is another tokenization option available to companies: issuance of utility tokens.
+
+A utility token is one whose value is pegged to the future usage of its application or service – and is dislocated from the formal equity valuation of a corporation. Nearly every corporation in the world is capable of issuing some variant of a utility token against the services it offers. Utility tokens currently operate in a very unclear regulatory environment: SEC Director Jay Clayton initially suggested that all utility tokens were unregistered securities, later suggested that some could pass the Howie Test, and just last month the state of Wyoming [formally greenlit utility tokens as a form of property](https://www.forbes.com/sites/rachelwolfson/2018/03/13/u-s-state-of-wyoming-defines-cryptocurrency-utility-tokens-as-new-asset-class/1).
+
+Most blockchain analysts do expect utility tokens to become increasingly commonplace. So the real question is what happens to the value of a company’s equity if it issues a utility token against the forward value of its services? Eden Shochat, General Partner at Aleph notes:
+
+>“If the company depends on value creation via the appreciation of token value and doesn’t get paid for providing a service, it won’t have revenues. If the company sells off [the tokens it owned through the initial issuance] — and thus holds no tokens at all — the company is value-less to you, the founder and your Angel Investor. None of its shareholders own anything.”
+
+You should read his full piece in Forbes, [Attention Founders: That ICO is About to Dilute You Too](https://www.forbes.com/sites/valleyvoices/2018/02/15/attention-founders-that-ico-is-about-to-dilute-you-too/#5e67950e10b4). It’s an interesting intellectual argument that emphasizes that issuing utility tokens pushes the equity valuation of a business into its tokens. The equity of the parent thereby becomes valueless, save for the value of any tokens it may hold as the issuer. It’s actual quite logical: in traditional markets, the value of equity is merely a derivative of future cash-flows and a company may therefore choose to transition its parent at-will from holding the value of cash flows to the value of utility tokens.
+
+In review, a utility token issuance may be recommended by a Board of Directors at will to re-orient a business’ value away from its cash flows and towards a de facto future market around the value of its services. 
+
+I recognize that was complex. But the whole synopsis is that whether it’s through (a) shorter hold periods at the growth stage (b) traditional secondary sales to growth equity firms (c) tokenization of securities or (d) utility token issuances, multiple macro forces are simultaneously conspiring to re-imagine the expectation of liquidity for early stage startup investors. It’s a trend I am extremely bullish on for The Starting Line and its LPs and I will plan to provide guidance in the future if those tailwinds shift.
+
+**THE HEARTLAND**
+
+I’d be remiss if I didn’t discuss my location in the heart of the Midwest given the recent media focus on the intersection of venture capital and the heartland. It started in March with the following Kevin Roose piece in the New York Times, [Silicon Valley is Over Says Silicon Valley](https://www.nytimes.com/2018/03/04/technology/silicon-valley-midwest.html), a summary of a three day bus tour for San Francisco VCs through the Midwest, which noted:
+
+>"But a funny thing happened: By the end of the tour, the coastal elites had caught the heartland bug. Several used Zillow, the real estate app, to gawk at the availability of cheap homes in cities like Detroit and South Bend and fantasize about relocating there. They marveled at how even old-line manufacturing cities now offer a convincing simulacrum of coastal life, complete with artisanal soap stores and farm-to-table restaurants.
+
+>“If it weren’t for my kids, I’d totally move,” said Cyan Banister, a partner at Founders Fund. “This could be a really powerful ecosystem.” 
+
+>These investors aren’t alone. In recent months, a growing number of tech leaders have been flirting with the idea of leaving Silicon Valley. Some cite the exorbitant cost of living in San Francisco and its suburbs, where even a million-dollar salary can feel middle class. Others complain about local criticism of the tech industry and a left-wing echo chamber that stifles opposing views. And yet others feel that better innovation is happening elsewhere."
+
+Many took issue with the piece, painting the bus tour as a voyeuristic retreat for “coastal elites,” who didn’t actually care about the non-coastal cities they were visiting. Dan Primack of Axios noted that any suggestions of a mass exodus from San Francisco was grossly overblown:
+
+>Just two weeks ago I told J that I could see us being happy living in Vermont. Then we drove home from our ski vacation.
+
+>This isn't to say the bus trip, and similar excursions, don't have an impact. They do, in terms of coastal investment dollars flowing into Midwestern startups. And there is data to suggest that California-focused funds no longer generate most of the top returns. But investing ≠ relocating.
+
+Brad Feld at Foundry Group also opined that the narrative had passed the point of sensibility:
+
+>The hyperbolic headlines are once again accompanying the articles about Silicon Valley…Silicon Valley is not over. Over 100 years since its notional inception, it’s a fascinating and amazing ecosystem.
+
+But, he noted, there is a lasting takeaway worth digesting: 
+
+>But it’s also not the only place you can create technology companies. I’m sitting in a hotel in New York and, according to a recent article from Bloomberg, New York Will Never Be Silicon Valley. And It’s Good With That.
+
+>The real story is that you can create startups, and thriving startup communities anywhere. Imagine the NYT article was titled “In a Moment of Introspection, Silicon Valley VCs Realize That There Are Tech Startups Outside of Silicon Valley.” Nah – that wouldn’t get as many clicks.
+
+As with most of life, the truth is somewhere in the middle. I actually participated in the trip, invited by one of the trip’s organizers (and Starting Line fund advisor/investor) , Roy Bahat, founding partner of Bloomberg Beta - and was the only non-coastal VC to travel with the group.
+
+<img src="https://i.imgur.com/Lz3Dyfy.png" width=300> <img src="https://i.imgur.com/KwzN1kQ.png" width=300>
+     
+It wasn’t lost on anyone that the vast majority of self-selecting participants were emerging faces in the venture world - the new generation in their partnerships - and more open than their predecessors to sourcing innovation outside of San Francisco. Further, I witnessed no hubris; rather, I experienced firsthand a deep intellectual curiosity and openness to dialogue with real people across the country.
+
+It’s reflective of a larger macro shift at play. When I officially entered the venture world in 2012 and began developing friendships at coastal funds, my efforts in Chicago were considered, at best, “cute.” Sometime in 2016, that began changing. Friends from bulge bracket coastal funds – that had otherwise humored me because they liked me (I presume), but were generally ambivalent about non-SF deals – began proactively reaching out to establish monthly calls or quarterly deep dives, hoping that I would serve as a de facto outsourced deal scout for a wide radius they couldn’t cover. Those conversations have only increased in the past twelve months and several of those firms are now investors directly into Starting Line.
+
+Winning deals in venture is as competitive as its ever been, and the signal to noise ratio is at historic lows. The generational opportunity that I am trying to execute against is becoming a rare trusted signal – even outside of the Valley - in a sea of chaos. Although venture is not a zero sum game, I do believe that material rents will accrue to the firms that can create a moat around brand, trust, and results. I am confident that my early track record in helping to identify and invest in high velocity winners such as Spothero, Hungryroot, and Flyhomes are a strong step in that direction. It’s also the reason I’ve made it a point to dedicate my time towards events and conferences that are non-Midwest focused, and that demonstrate The Starting Line’s thought leadership on a national scale, such as The Marketplace Conference, where I was the only non-San Franciscan to lead a session amongst a sea of 300 attendees:
+
+<img src="https://i.imgur.com/kqw1HYV.png" width=150> <img src="https://i.imgur.com/l7zv3WL.png" width=450>
+    
+Operating in the Heartland is a fundamental asset and I wouldn’t want to be anywhere else. But location itself is not a sufficient differentiator: it must yield sustained trust. It’s one of the variables I expect each of you to benchmark me and Starting Line against. If we’re failing, it’s imperative that you call me out.
+
+**ON CRYPTO AND GOLD RUSHES**
+
+Only time will tell, but my intuition (supported by the anecdotal) is that an enormous amount of young talent has left the venture capital ecosystem for the greener (maybe) fields of crypto and the emergence of token funds.
+
+I empathize with that seduction: 50% intraday swings and 15x annual moves are exhilarating in a way that the slow and steady grind of venture capital is not. Crypto is truly a digital gold rush, far more democratized than even the dot com era, with barriers to entry as simple as internet access and a credit card. 
+
+Several of my exceptionally talented friends have opted to leave their existing venture firms to pursue the token economy. For some, it is a deeply authentic pursuit and the culmination of years spent obsessing and evangelizing a nascent technology to anyone who would listen. For others, it is unapologetically a money grab. 
+
+Irrespective of the authenticity behind these pursuits, I think there’s a chance that this exodus becomes reflected in the venture asset class in 3-5 years. If, as I suspect, a real number of exceptionally talented, ultra ambitious associates and senior associates, even principals – the future of their firms – are being swept into the crypto wave, it follows that there will be a multi year experience gap and general softness in the traditional venture market down the line.
+
+It’s very unclear to me if this is a near term opportunity that can be capitalized on. At worst, it’s an observation worth tracking. At best, it’s a tailwind reducing some competition in the fight to win the best deals. Time will tell.
+
 
