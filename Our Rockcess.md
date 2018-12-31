@@ -4,7 +4,7 @@ There are few more hated phrases amongst entrepreneurs than "our process."
 
 We'll go through our process and get back to you.
 
-Oh will you? It's like a bunch of investors conspired late at night to come up with a universal phrase that meant literally nothing.
+It's like a bunch of investors conspired late at night to come up with a universal phrase that was a catch all to mean literally nothing.
 
 We would know too. We heard it as entrepreneurs. We heard it raising this fund; plenty of "process" that was code for: we're just gonna dissapear now pls, thx!
 
