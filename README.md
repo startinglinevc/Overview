@@ -1,5 +1,5 @@
 # Starting Line Operating Manual
-Welcome! Weren't expecting this? That's OK.
+Welcome! Weren't expecting this? That's OK. Starting Line's home website is still open in your prior window.
 
 This repository exists because we recognize that entrepreneurs struggle to both properly understand and connect with prospective investors. Our dream is that this operating manual provides all the information you could possibly want to know about us; and we will continually update it to fill in holes that are discovered.
 
