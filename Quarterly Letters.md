@@ -229,7 +229,7 @@ But, he noted, there is a lasting takeaway worth digesting:
 
 As with most of life, the truth is somewhere in the middle. I actually participated in the trip, invited by one of the trip’s organizers (and Starting Line fund advisor/investor) , Roy Bahat, founding partner of Bloomberg Beta - and was the only non-coastal VC to travel with the group.
 
-<img src="https://i.imgur.com/Lz3Dyfy.png" width=150> <img src="https://i.imgur.com/KwzN1kQ.png" width=450>
+<img src="https://i.imgur.com/Lz3Dyfy.png" width=225> <img src="https://i.imgur.com/KwzN1kQ.png" width=375>
      
 It wasn’t lost on anyone that the vast majority of self-selecting participants were emerging faces in the venture world - the new generation in their partnerships - and more open than their predecessors to sourcing innovation outside of San Francisco. Further, I witnessed no hubris; rather, I experienced firsthand a deep intellectual curiosity and openness to dialogue with real people across the country.
 
