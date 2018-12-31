@@ -5,6 +5,15 @@ This repository exists because we recognize that entrepreneurs struggle to both 
 
 This manual was inspired by our friends at Bloomberg Beta (one of our first investors) who are also committed to radical transparency.
 
+<u>Table of Contents</u>
+* [What We Invest In](https://github.com/startinglinevc/Overview/blob/master/README.md#what-we-invest-in)
+* [The Checks We Write](https://github.com/startinglinevc/Overview/blob/master/README.md#the-checks-we-write)
+* [Geographic Focus](https://github.com/startinglinevc/Overview/blob/master/README.md#geographic-focus)
+* [Getting in Touch](https://github.com/startinglinevc/Overview/blob/master/README.md#getting-in-touch)
+* [How We Think](https://github.com/startinglinevc/Overview/blob/master/README.md#how-we-think)
+* [Portfolio Companies](https://github.com/startinglinevc/Overview/blob/master/Our%20Portfolio.md)
+* [Our Quarterly LP Letters](https://github.com/startinglinevc/Overview/blob/master/Quarterly%20Letters.md)
+
 ## What We Invest In 
 Starting Line is a thematic early stage venture capital fund focused on investing in consumer services and products that are both cheaper and better.
 
