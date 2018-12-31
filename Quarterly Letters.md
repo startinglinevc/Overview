@@ -7,7 +7,12 @@ Each quarter, we circulate a variety of updates and thoughts to our fund's inves
 2. The Portfolio
 3. The Finish Line
 
-Because it would be inappropriate to share the specific performance updates of Starting Line's portfolio, we are only publishing the first section, "The Front Line." Our hope is that it provides some additional insight into the trends we're following and how we think.
+Because it would be inappropriate to share the specific performance updates of Starting Line's portfolio, we are only publishing the first section, "The Front Line." Our hope is that it provides some additional insight into the trends we're following and how we think:
+
+* [Q3 2018](https://github.com/startinglinevc/Overview/blob/master/Quarterly%20Letters.md#q3-2018)
+* [Q2 2018](https://github.com/startinglinevc/Overview/blob/master/Quarterly%20Letters.md#q2-2018)
+* [Q1 2018](https://github.com/startinglinevc/Overview/blob/master/Quarterly%20Letters.md#q1-2018)
+
 
 ## Q3 2018
 
