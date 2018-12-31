@@ -12,7 +12,7 @@ Don't you wish every VC firm was like that Dominos app? Are they topping the piz
 
 Mark Suster at Upfront Ventures has written some fantastic blogs on the subject: [How to Improve Your Odds of Getting to Yes With a VC](https://bothsidesofthetable.com/how-to-improve-your-odds-of-getting-to-yes-with-a-vc-land-and-expand-b46a0a102a07),[What Really Happens Behind the Scenes at VC Firms](https://www.inc.com/mark-suster/what-really-happens-behind-scenes-at-vc-firms-and-how-to-increase-your-chances-of-landing-a-deal.html), and many more. We love Mark's blogs; but every firm is different.
 
-Here's how ours works.
+Here's how our rockcess works.
 
 ### The First Meeting
 
