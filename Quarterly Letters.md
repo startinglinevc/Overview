@@ -229,7 +229,7 @@ But, he noted, there is a lasting takeaway worth digesting:
 
 As with most of life, the truth is somewhere in the middle. I actually participated in the trip, invited by one of the trip’s organizers (and Starting Line fund advisor/investor) , Roy Bahat, founding partner of Bloomberg Beta - and was the only non-coastal VC to travel with the group.
 
-<img src="https://i.imgur.com/Lz3Dyfy.png" width=300> <img src="https://i.imgur.com/KwzN1kQ.png" width=300>
+<img src="https://i.imgur.com/Lz3Dyfy.png" width=150> <img src="https://i.imgur.com/KwzN1kQ.png" width=450>
      
 It wasn’t lost on anyone that the vast majority of self-selecting participants were emerging faces in the venture world - the new generation in their partnerships - and more open than their predecessors to sourcing innovation outside of San Francisco. Further, I witnessed no hubris; rather, I experienced firsthand a deep intellectual curiosity and openness to dialogue with real people across the country.
 
@@ -237,7 +237,7 @@ It’s reflective of a larger macro shift at play. When I officially entered the
 
 Winning deals in venture is as competitive as its ever been, and the signal to noise ratio is at historic lows. The generational opportunity that I am trying to execute against is becoming a rare trusted signal – even outside of the Valley - in a sea of chaos. Although venture is not a zero sum game, I do believe that material rents will accrue to the firms that can create a moat around brand, trust, and results. I am confident that my early track record in helping to identify and invest in high velocity winners such as Spothero, Hungryroot, and Flyhomes are a strong step in that direction. It’s also the reason I’ve made it a point to dedicate my time towards events and conferences that are non-Midwest focused, and that demonstrate The Starting Line’s thought leadership on a national scale, such as The Marketplace Conference, where I was the only non-San Franciscan to lead a session amongst a sea of 300 attendees:
 
-<img src="https://i.imgur.com/kqw1HYV.png" width=150> <img src="https://i.imgur.com/l7zv3WL.png" width=450>
+<img src="https://i.imgur.com/kqw1HYV.png" width=300> <img src="https://i.imgur.com/l7zv3WL.png" width=300>
     
 Operating in the Heartland is a fundamental asset and I wouldn’t want to be anywhere else. But location itself is not a sufficient differentiator: it must yield sustained trust. It’s one of the variables I expect each of you to benchmark me and Starting Line against. If we’re failing, it’s imperative that you call me out.
 
