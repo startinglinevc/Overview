@@ -34,11 +34,11 @@ We recognize that as an entrepreneur it can often be difficult to gauge whom we 
 ## How We Think
 We try to produce a substantial amount of content and make it accessible widely. We even took the drastic of open-sourcing our quarterly LP letters so you can gain insight into the trends we're following, how we see the world, and the narrative we're telling our own investors. Here is a non-exhaustive list of ways to learn more about us:
 
-[Our Quarterly LP Letters](Overview/Quarterly Letters.md)
+[Our Quarterly LP Letters](https://github.com/startinglinevc/Overview/blob/master/Quarterly%20Letters.md)
 
 **Ezra**
 * [Twitter](https://twitter.com/EzraMoGee)
-* [Blog] (http://www.breakingvc.com/)
+* [Blog](http://www.breakingvc.com/)
 
 **Ade**
 * [Twitter](https://twitter.com/adeolonoh)
