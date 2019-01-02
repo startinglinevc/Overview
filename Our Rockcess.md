@@ -37,7 +37,29 @@ Our post meeting commitment is as follows:
 
 ### Diligence
 
-Coming Soon
+We do diligence in many different ways, some of which are quantitative and some of which are qualitative. Things we may do behind the scenes include:
+1. Perform personal references through our mutual networks.
+2. Connect with people we respect at companies where you've previously been employed and ask about your reputation, cultural fit, and work ethic. (If you've only ever been a CEO, we may reach out to former employees).
+3. Forward your deck to non-competitive experts who can help us validate certain assumptions as well as better define areas to investigate.
+4. Investigate through our network on the performance of competitive businesses, without revealing details about yours.
+5. Interview current and prospective customers.
+6. Commission proprietary research and/or polling on your market and narrative. We enjoy working with [Survata](https://www.survata.com/) but they are not the only research platform we leverage.
+7. Use your product and stress-test it.
+8. Request prior monthly investor updates.
+9. Review all applicable financials including a forward looking pro-forma, your trailing metrics, and guage feedback from marketing, product, supply chain, etc, experts on your assumptions.
+
+Timelines from first meeting to term sheet have historically ranged from 2 weeks to several months. 
+
+**If any of these diligence items make you uncomfortable - including your deck being forwarded or references being contacted - please let us know ahead of time; we will respect your wishes. However, being prevented from appropriately diligencing a business in the manner we consider optimal renders it unlikely, if not impossible, that we could make an investment.
+
+A lot of entrepreneurs ask us how we stack rank the variables we are listening for throughout the diligence process. We admit that it is an imperfent science but it breaks down roughly across the following rubric of prioritization:
+1. Integrity of founding team
+2. Cohesion of go big narrative
+3. Affinity with the product (ours, not yours)
+4. Ability of founding team to raise additional capital.
+5. Exciting market dynamics (connected with #2, narrative).
+6. Positive employee feedback
+7. Experience of management team
 
 ### Investment Decisions
 
