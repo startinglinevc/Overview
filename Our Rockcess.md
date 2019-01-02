@@ -50,7 +50,7 @@ We do diligence in many different ways, some of which are quantitative and some 
 
 Timelines from first meeting to term sheet have historically ranged from 2 weeks to several months. 
 
-**If any of these diligence items make you uncomfortable - including your deck being forwarded or references being contacted - please let us know ahead of time; we will respect your wishes. However, being prevented from appropriately diligencing a business in the manner we consider optimal renders it unlikely, if not impossible, that we could make an investment.
+**If any of these diligence items make you uncomfortable - including your deck being forwarded or references being contacted - please let us know ahead of time; we will respect your wishes. However, being prevented from appropriately diligencing a business in the manner we consider optimal renders it unlikely, if not impossible, that we could make an investment.**
 
 A lot of entrepreneurs ask us how we stack rank the variables we are listening for throughout the diligence process. We admit that it is an imperfent science but it breaks down roughly across the following rubric of prioritization:
 1. Integrity of founding team
