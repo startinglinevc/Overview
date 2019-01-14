@@ -69,6 +69,6 @@ Coming Soon
 
 At Starting Line, we try to issue no frills, market standard term sheets that allow you to build your company on fair, non-punitive terms and work through the docs process quickly.
 
-A sample of our default term sheet can be found here: [https://github.com/startinglinevc/Overview/blob/master/Starting%20Line%20-%20Sample%20Termsheet.pdf](Sample Termsheet)
+A sample of our default term sheet can be found here: [https://github.com/startinglinevc/Overview/blob/master/Starting%20Line%20-%20Sample%20Termsheet.pdf]
 
 Thought there will often be minor adaptions to the sample term sheet, the core of the offer will remain consistent.
