@@ -63,7 +63,23 @@ A lot of entrepreneurs ask us how we stack rank the variables we are listening f
 
 ### Investment Decisions
 
-Coming Soon
+We elect to invest in a business when we have an unwavering level of conviction, either around the founding team or the product being brought to market, and ideally both.
+
+General pre-requisites for issuing a term sheet include:
+1. Multiple meetings with Starting Line, either in person or on the phone.
+2. Company's engagement with our network of advisors and experts.
+3. Many hours collaboratively spent investigating Company pro-formas and existing metrics. Although an imperfect science, this is often 6-10 hours in aggregate.
+4. Discussions with many, if not all, prior investors of the business.
+5. On site Company meeting to meet the breadth of the team.
+6. Time spent socially outside of a work environment to better gauge each others' values.
+7. Deep dive into product roadmap and R&D, understanding the timelines and levers that give your Company the opportunity to increase its velocity.
+8. Introductions to other founders in Starting Line's portfolio or that we've worked with in the past as investors.
+
+As our average check is $1M, we also work closely with the Company to ensure there is sufficient financing leverage elsewhere in a potential syndicate to provide the firepower necessary to prove out future milestones.
+
+Our firm, like many others, has considerations that are outside an entrepreneurs control such as: duration into a fund cycle, historical biases from similar businesses, competitive sensitivities, partner dynamics and more. 
+
+If we spend more than a few hours with your business and do not invest, we commit ourselves to providing substantial feedback about our rationale.
 
 ### Term Sheets
 
@@ -71,4 +87,4 @@ At Starting Line, we try to issue no frills, market standard term sheets that al
 
 A sample of our default term sheet can be: [found here](https://github.com/startinglinevc/Overview/blob/master/Starting%20Line%20-%20Sample%20Termsheet.pdf)
 
-Thought there will often be minor adaptions to the sample term sheet, the core of the offer will remain consistent.
+Though there will often be minor adaptations to the sample term sheet, the core of the offer will remain consistent.
