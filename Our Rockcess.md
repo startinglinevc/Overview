@@ -1,8 +1,8 @@
 ## Starting Line Investment Process
 
-There are few more hated phrases amongst entrepreneurs than "our process."
+There are few more hated phrases amongst entrepreneurs than "the process."
 
-We'll go through our process and get back to you.
+We'll go through the process and get back to you.
 
 It's like a bunch of investors conspired late at night to come up with a universal phrase that was a catch all to mean literally nothing.
 
