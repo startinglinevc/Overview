@@ -20,7 +20,7 @@ If you reach out to us, either via a cold e-mail or through an introduction, our
 
 We suggest you send us your deck ahead of time, ideally with 24-48 hours notice. We find it uncomfortable when entrepreneurs "pitch" in person. We respect you too much for that. We'd prefer to use our time to learn more about you, what inspires you, what music you like to listen to, and dive into the narrative behind your business in ways that are difficult to accomplish with slides. Some people call this a "conversation." We are all social humans...let's converse and not pitch. 
 
-Some founders are concerned that a deck pre-emptively biases investors one way or another. There is some truth to this. But we can't be experts on every subject and the more information you provide ahead of time, the more work we can do to get smart on your market, ping some of the experts in our network, 
+Some founders are concerned that a deck pre-emptively biases investors one way or another. There is some truth to this. But we can't be experts on every subject and the more information you provide ahead of time, the more work we can do to get smart on your market, and ping some of the experts in our network.
 
 If we reach out to you unprompted, you should expect us to be fully researched on your market, competitors, industry dynamics and more.
 
