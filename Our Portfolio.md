@@ -42,7 +42,7 @@
           <td> Unannounced Cookware Investment </td>
           <td> Stealth </td>
       <td> Austin, TX </td>
-      <td> February, 2018 </td>
+      <td> February, 2019 </td>
   </tr>
   </table>
   
