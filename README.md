@@ -15,8 +15,6 @@ This manual was inspired by our friends at Bloomberg Beta (one of our first inve
 * [Our Investment Process](https://github.com/startinglinevc/Overview/blob/master/Our%20Rockcess.md)
 * [Our Quarterly LP Letters](https://github.com/startinglinevc/Overview/blob/master/Quarterly%20Letters.md)
 
-*Note: This manual is a work in progress and under construction with an expected completion date of Jan 31, 2019. Our apologies if information is missing before then.
-
 ## What We Invest In 
 Starting Line is a thematic early stage venture capital fund focused on investing in consumer services and products that are both cheaper and better.
 
