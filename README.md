@@ -34,7 +34,7 @@ We believe this unorthodox structure is beneficial for early stage founders for 
 4. It allows founders to more quickly close their seed rounds and get back to build their business - rather than spending months accumulating a series of smaller checks.
 
 ## Geographic Focus
-Starting Line is HQ'd in Chicago, IL and we are highly biased towards our hometown of Chicago and underserved areas between the coasts. However, we have no formal geographic policy - and instead are inspired by founders aiming to solve problems for average, everyday Americans. Our fund investments have ranged from New York to Austin and our angel investments have criss-crossed the country from SF to NYC to Seattle and everything in between.
+Starting Line is HQ'd in Chicago, IL and we are highly biased towards our hometown of Chicago and other underserved communities. However, we have no formal geographic policy - and instead are inspired by founders aiming to solve problems for average, everyday Americans. Our fund investments have ranged from New York to Austin and our angel investments have criss-crossed the country from SF to NYC to Seattle and everything in between.
 
 ## Getting in Touch
 There is no right or wrong way to get in touch with us. A great cold e-mail is far superior than an intro from someone we don't know all that well.
@@ -42,7 +42,7 @@ There is no right or wrong way to get in touch with us. A great cold e-mail is f
 We recognize that as an entrepreneur it can often be difficult to gauge whom we know "well," so in general its best to bias towards introductions through founders we've invested in, or even employees at the companies we've invested in. As early stage investors, we often have 1:1 relationships with many of the first 50+ employees.
 
 ## How We Think
-We try to produce a substantial amount of content and make it accessible widely. We even took the drastic of open-sourcing our quarterly LP letters so you can gain insight into the trends we're following, how we see the world, and the narrative we're telling our own investors. Here is a non-exhaustive list of ways to learn more about us:
+We try to produce a substantial amount of content and make it accessible widely. We even took the drastic step of open-sourcing our quarterly LP letters so you can gain insight into the trends we're following, how we see the world, and the narrative we're telling our own investors. Here is a non-exhaustive list of ways to learn more about us:
 
 [Our Quarterly LP Letters](https://github.com/startinglinevc/Overview/blob/master/Quarterly%20Letters.md)
 
