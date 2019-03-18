@@ -8,7 +8,7 @@ We would know: we raised Starting Line against long odds, in a tough fundraising
 
 That’s why we’re releasing our formal policy in support of mental health. It is our hope and expectation that all founders (in Starting Line’s portfolio and beyond) are in a consistent habit of meeting with a mental health professional. 
 
-To that end, we are offering the following subsidies:
+To that end, we are offering the following subsidies to founders in Starting Line's portfolio:
 
 * Starting Line will subsidize each founder’s first session of therapy, executive coaching, or co-founder counseling (up to $200.)
 * If any founder commits to a three month term of engaging therapy, executive coaching, or co-founder counseling, Starting Line will cover the first three of those sessions (up to $200 per session.)
