@@ -13,6 +13,7 @@ This manual was inspired by our friends at Bloomberg Beta (one of our first inve
 * [How We Think](https://github.com/startinglinevc/Overview/blob/master/README.md#how-we-think)
 * [Portfolio Companies](https://github.com/startinglinevc/Overview/blob/master/Our%20Portfolio.md)
 * [Our Investment Process](https://github.com/startinglinevc/Overview/blob/master/Our%20Rockcess.md)
+* [Our Policy on Mental Health](https://github.com/startinglinevc/Overview/blob/master/Mental%20Health.md)
 * [Our Quarterly LP Letters](https://github.com/startinglinevc/Overview/blob/master/Quarterly%20Letters.md)
 
 ## What We Invest In 
