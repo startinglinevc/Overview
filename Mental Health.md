@@ -1,6 +1,6 @@
 # Starting Line's Official Policy on Mental Health
 
-Building a startup is an exhausting process. It is terrifying, stressful, and confusing. At the same time, it can also be exhilarating. Succinctly, the highs are higher than any other feeling; the lows depress similarly. As a founder remarked to us recently, “my mood is dictated daily by the performance of our Shopify revenue.”
+Building a startup is an exhausting process. It is terrifying, stressful, and confusing. It can also be exhilarating. The highs are higher than any other feeling; the lows depress similarly. As a founder remarked to us recently, “my mood is dictated daily by the performance of our Shopify revenue.”
 
 If not managed and balanced, these volatile emotions can become unhealthy. Worse, they can affect performance.
 
