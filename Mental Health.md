@@ -1,4 +1,4 @@
-#Starting Line's Official Policy on Mental Health
+# Starting Line's Official Policy on Mental Health
 
 Building a startup is an exhausting process. It is terrifying, stressful, and confusing. At the same time, it can also be exhilarating. Succinctly, the highs are higher than any other feeling; the lows depress similarly. As a founder remarked to us recently, “my mood is dictated daily by the performance of our Shopify revenue.”
 
@@ -15,7 +15,7 @@ To that end, we are offering the following subsidies:
 
 The goals here are straightforward – first, to reduce the friction and barriers towards engaging on this important issue. And secondly, to provide an incentive towards longer term care and health. Through our networks, we are happy to anonymously assist any founder who is interested in therapy, executive coaching, or co-founder counseling, but doesn’t know where to start.
 
-In addition, we will provide all founders, upon their request, and at no expense, with the following list of books (which we hope will grow over time):
+In addition, we will provide all founders, upon their request, and at no expense, with the following list of books (a library which we hope will grow over time):
 
 * [Dare to Lead](https://www.amazon.com/Dare-Lead-Brave-Conversations-Hearts/dp/0399592520) by Brene Brown
 * [Insight](https://www.amazon.com/Insight-Surprising-Others-Ourselves-Answers-ebook/dp/B01JWDWP4Y
