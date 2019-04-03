@@ -40,7 +40,7 @@
   </tr>
         <tr>
   <td><a href="http://www.madeincookware.com">Made In Cookware</a> </td>
-  <td><a href="https://www.linkedin.com/in/bradfordmalt/"Chip Malt</a>, <a href="https://www.linkedin.com/in/jake-kalick-26b44224/">Jake Kalick</a></td>
+  <td><a href="https://www.linkedin.com/in/bradfordmalt/">Chip Malt</a>, <a href="https://www.linkedin.com/in/jake-kalick-26b44224/">Jake Kalick</a></td>
       <td> Austin, TX </td>
       <td> February, 2019 </td>
   </tr>
