@@ -105,7 +105,7 @@ There’s only one true arbiter of truth in investing and that is financial retu
 
 Overall, fund performance is ahead of where we expected to be nine months into a brand new early stage fund. Early outperformance has been driven solely by our $1m seed bet into Cameo, and we are hopeful to see additional paper (unrealized) gains over the coming 6-12 months in that position given the stream of inbound interest in their business.
 
-[redacted] have also been fielding inbound interest, with Unchained planning to go back to mark in mid-Q2. We had not modeled out any gains (realized or unrealized) this early in our fund cycle, but feel blessed to have early momentum. 
+[redacted] have also been fielding inbound interest, with [redacted] planning to go back to mark in mid-Q2. We had not modeled out any gains (realized or unrealized) this early in our fund cycle, but feel blessed to have early momentum. 
 
 **DEALS WON %**
 
@@ -123,14 +123,14 @@ Having invested out of the Midwest ecosystem for over 7 years now, I am convince
 
 That said, being only nine months in to a new fund, it feels somewhat inappropriate to be running complex secondary transactions. Nevertheless, we feel emboldened through the following two data points:
 
--	As mentioned above, Made In Cookware had a flush balance sheet and was not looking to raise capital. Through a combination of syndicate development (sourcing a co-lead and local board member for them), a barrage of references and calls from both entrepreneurs and LPs, we were able to manufacture a financing that would otherwise not have been available. I love these scenarios as this result is pure alpha that is not available to more traditionally minded firms.
+1.	As mentioned above, Made In Cookware had a flush balance sheet and was not looking to raise capital. Through a combination of syndicate development (sourcing a co-lead and local board member for them), a barrage of references and calls from both entrepreneurs and LPs, we were able to manufacture a financing that would otherwise not have been available. I love these scenarios as this result is pure alpha that is not available to more traditionally minded firms.
 
 Here’s an example of some of the work we put together for them while positioning to lead their round:
 
  
  
 
--	We sourced our first deal ever through Twitter. An entrepreneur we had been tracking, announced her new Company on Twitter. Through the following prompt, we were able to connect that same way and get an investment closed in under 30 days. Although this is not pure alpha creation, it is a deal outside our existing network that would otherwise not have been in play.
+2.	We sourced our first deal ever through Twitter. An entrepreneur we had been tracking, announced her new Company on Twitter. Through the following prompt, we were able to connect that same way and get an investment closed in under 30 days. Although this is not pure alpha creation, it is a deal outside our existing network that would otherwise not have been in play.
 
  
 
