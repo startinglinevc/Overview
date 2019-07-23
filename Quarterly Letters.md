@@ -61,12 +61,12 @@ It probably won’t surprise anyone that I’m a fan and admirer of Howard Marks
 
 In his latest book, Mastering the Market Cycle, he opines on the following effects which he claims typically occur when “euphoria, optimism and greed rise:”
 
-•	“Since they feel better about the environment and are more optimistic about likely outcomes, they reduce the amount of caution they bring to the investing process.”
-•	“Since they no longer consider investing to be risky, they don’t see the need for painstaking analysis.”
-•	“They tend of make assumptions that are more generous, and they replace skepticism with credulousness.”
-•	“They’re willing to make do with a reduced margin of safety.”
-•	“Viewing risk as less worrisome, they no longer demand risk premiums as cushy as in the past.”
-•	“They behave less as sticklers, since they’re more attracted to the returns on risky investments and less leery of the risk they involve. 
+*	“Since they feel better about the environment and are more optimistic about likely outcomes, they reduce the amount of caution they bring to the investing process.”
+*	“Since they no longer consider investing to be risky, they don’t see the need for painstaking analysis.”
+*	“They tend of make assumptions that are more generous, and they replace skepticism with credulousness.”
+*	“They’re willing to make do with a reduced margin of safety.”
+*	“Viewing risk as less worrisome, they no longer demand risk premiums as cushy as in the past.”
+*	“They behave less as sticklers, since they’re more attracted to the returns on risky investments and less leery of the risk they involve. 
 
 It is for these reasons that the shakiest financings are completed in the most buoyant economies and financial markets. Good times cause people to become more optimistic, jettison their caution, and settle for skimpy risk premiums on risky investments. Further, since they are less pessimistic and less alarmed, they tend to lose interest in the safer end of the risk/return continuum. This combination of elements makes the prices of risky assets rise relative to safer ones.” (p. 111).
 
@@ -78,11 +78,11 @@ Either way, Mark’s framework makes the following point clear: that the early s
 
 We’d like to suggest the following structure which we arrived at through a mix of organic experimentation and some hypothesization that is thus far working for us, but may not be appropriate for others:
 
-•	Prioritize outbound driven pipeline efforts, rather than inbound “referrals,” allowing us to better control the tempo of financings, avoid group-think, or, alternately, avoid adverse selection.
-•	Prioritize efforts with startups that are not “in market” fundraising, but where we can build a relationship with management, work with them to craft an accelerated growth plan, thereby better controlling the tempo of the financing and syndicate formation.
-•	Diligence management and markets aggressively ahead of initial engagement so that we can execute with high conviction towards founders and products that we feel affinity for. Though we may be forced to sacrifice some diligence on underlying company data in certain situations, we can still maintain “smart money” principles on overall investment.
-•	In competitive situations, prioritize speed but not pricing, aiming to be the first bid in a process.  By making a strong first impression with our conviction and speed, we accordingly increase deal related optionality and force management teams to react to our moves.
-•	Execute a tight-aggressive approach; rather than spraying term sheets across the market and hoping to win a small percentage, instead choosing which processes we are deeply convicted on and aggressively selling our networks to maintain a high win percentage. 
+*	Prioritize outbound driven pipeline efforts, rather than inbound “referrals,” allowing us to better control the tempo of financings, avoid group-think, or, alternately, avoid adverse selection.
+*	Prioritize efforts with startups that are not “in market” fundraising, but where we can build a relationship with management, work with them to craft an accelerated growth plan, thereby better controlling the tempo of the financing and syndicate formation.
+*	Diligence management and markets aggressively ahead of initial engagement so that we can execute with high conviction towards founders and products that we feel affinity for. Though we may be forced to sacrifice some diligence on underlying company data in certain situations, we can still maintain “smart money” principles on overall investment.
+*	In competitive situations, prioritize speed but not pricing, aiming to be the first bid in a process.  By making a strong first impression with our conviction and speed, we accordingly increase deal related optionality and force management teams to react to our moves.
+*	Execute a tight-aggressive approach; rather than spraying term sheets across the market and hoping to win a small percentage, instead choosing which processes we are deeply convicted on and aggressively selling our networks to maintain a high win percentage. 
 
 With this framework, we are aiming to mitigate the effects of the current capital environment as much as possible. If we can play a differentiated game than the rest of the market, we will be able to transform a highly competitive market into a more greenfield one. As with any operating manual, it is a work in progress, subject to market changes, but we do hope it sheds some light on how we’re thinking about investing and being responsible, mature, stewards of your capital.
 
@@ -93,11 +93,11 @@ With this framework, we are aiming to mitigate the effects of the current capita
 
 We believe it’s appropriate to evaluate the success of Starting Line across the following dimensions:
 
-a)	Financial performance
-b)	Deals won %
-c)	Deal creativity
-d)	Fund strategy
-e)	Team building
+1.	Financial performance
+2.	Deals won %
+3.	Deal creativity
+4.	Fund strategy
+5.	Team building
 
 **PERFORMANCE**
 
