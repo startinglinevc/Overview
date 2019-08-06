@@ -23,7 +23,7 @@ One of my favorite lessons in psychology comes from the well known story of Roge
 
 From famed behaviorist Malcom Gladwell –
 
-"The weird thing in running is how people keep running faster and faster. Take the great example of the four-minute mile. One guy breaks it, then all of a sudden everyone breaks it. And they break it in such a short period of time that it can’t be because they were training harder. It’s purely that it was a psychological barrier and someone had to show them that they could do it. It’s the same thing if you’re a runner and you’re around older runners, you just get the sense of what’s possible. You have no clue, if you’re by yourself, how fast you can run. You have no sense of what your limits are.”
+>"The weird thing in running is how people keep running faster and faster. Take the great example of the four-minute mile. One guy breaks it, then all of a sudden everyone breaks it. And they break it in such a short period of time that it can’t be because they were training harder. It’s purely that it was a psychological barrier and someone had to show them that they could do it. It’s the same thing if you’re a runner and you’re around older runners, you just get the sense of what’s possible. You have no clue, if you’re by yourself, how fast you can run. You have no sense of what your limits are.”
 
 I often think of this incongruity in the frame of startups, market sizing and value creation. For example, in the early 2010’s vertical e-commerce was written off as dead. The implosions of Gilt Group, Fab.com, Wayfair’s 50% decline from its IPO, and Zulily’s 65%+ decline in the public markets off its IPO pop, cultivated the narrative that traditional retail had bottomed, appropriately reversed course, and that niche e-commerce (minus Amazon and eBay) would always be too subscale to matter to investors.
 
@@ -61,14 +61,14 @@ It probably won’t surprise anyone that I’m a fan and admirer of Howard Marks
 
 In his latest book, Mastering the Market Cycle, he opines on the following effects which he claims typically occur when “euphoria, optimism and greed rise:”
 
-*	“Since they feel better about the environment and are more optimistic about likely outcomes, they reduce the amount of caution they bring to the investing process.”
-*	“Since they no longer consider investing to be risky, they don’t see the need for painstaking analysis.”
-*	“They tend of make assumptions that are more generous, and they replace skepticism with credulousness.”
-*	“They’re willing to make do with a reduced margin of safety.”
-*	“Viewing risk as less worrisome, they no longer demand risk premiums as cushy as in the past.”
-*	“They behave less as sticklers, since they’re more attracted to the returns on risky investments and less leery of the risk they involve. 
+>*	“Since they feel better about the environment and are more optimistic about likely outcomes, they reduce the amount of caution they bring to the investing process.”
+>*	“Since they no longer consider investing to be risky, they don’t see the need for painstaking analysis.”
+>*	“They tend of make assumptions that are more generous, and they replace skepticism with credulousness.”
+>*	“They’re willing to make do with a reduced margin of safety.”
+>*	“Viewing risk as less worrisome, they no longer demand risk premiums as cushy as in the past.”
+>*	“They behave less as sticklers, since they’re more attracted to the returns on risky investments and less leery of the risk they involve. 
 
-It is for these reasons that the shakiest financings are completed in the most buoyant economies and financial markets. Good times cause people to become more optimistic, jettison their caution, and settle for skimpy risk premiums on risky investments. Further, since they are less pessimistic and less alarmed, they tend to lose interest in the safer end of the risk/return continuum. This combination of elements makes the prices of risky assets rise relative to safer ones.” (p. 111).
+>It is for these reasons that the shakiest financings are completed in the most buoyant economies and financial markets. Good times cause people to become more optimistic, jettison their caution, and settle for skimpy risk premiums on risky investments. Further, since they are less pessimistic and less alarmed, they tend to lose interest in the safer end of the risk/return continuum. This combination of elements makes the prices of risky assets rise relative to safer ones.” (p. 111).
 
 There is a credible claim to be made that the current startup financing environment meets each of these euphoric qualifications. Certainly due diligence on companies is at the lowest levels I have ever seen. Speed to financing (irrespective of diligence) is at the fastest levels I have ever seen. And it sure seems that growth stage investors are valuing startups with a nearly blind eye towards their underlying risks.
 
