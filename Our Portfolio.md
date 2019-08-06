@@ -50,5 +50,11 @@
       <td> Austin, TX </td>
       <td> July, 2019 </td>
   </tr>
+         <tr>
+  <td><a href="https://xenaworkwear.com/">Xena Workwear</a> </td>
+  <td><a href="https://www.linkedin.com/in/anastasia-kraft-b10878aa/">Anastasia Kraft</a>, <a href="https://www.linkedin.com/in/dmitrykrivochenitser/">Dmitry Krivochenitser</a></td>
+      <td> Milwaukee, WI </td>
+      <td> July, 2019 </td>
+  </tr>
   </table>
   
