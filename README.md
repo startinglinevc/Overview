@@ -55,5 +55,8 @@ We try to produce a substantial amount of content and make it accessible widely.
 * [Twitter](https://twitter.com/adeolonoh)
 * [Blog](https://adeolonoh.com/)
 
+**Haley**
+* [Twitter](https://twitter.com/HaleyKwaitZollo)
+* [LinkedIn](https://www.linkedin.com/in/haley-kwait-69a22950/)
 
 
