@@ -63,7 +63,7 @@
       <td> September, 2019 </td>
   </tr>
           <tr>
-  <td><a href="https://www.figments.gg/">Truman's</a> </td>
+  <td><a href="https://www.figments.gg/">Figments</a> </td>
   <td><a href="https://www.linkedin.com/in/jay-rosenkrantz-05846511b/">Jay Rosenkrantz</a>, <a href="https://www.linkedin.com/in/scottrosenkrantz/">Scott Rosenkrantz</a></td>
       <td> Los Angeles, CA </td>
       <td> September, 2019 </td>
