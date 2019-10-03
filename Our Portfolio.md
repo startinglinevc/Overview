@@ -56,5 +56,23 @@
       <td> Milwaukee, WI </td>
       <td> July, 2019 </td>
   </tr>
+        <tr>
+  <td><a href="https://www.trumans.com/">Truman's</a> </td>
+  <td><a href="https://www.linkedin.com/in/jonbostock/">Jon Bostock</a>, <a href="https://www.linkedin.com/in/areed34/">Alex Reed</a></td>
+      <td> Louisville, KY </td>
+      <td> September, 2019 </td>
+  </tr>
+          <tr>
+  <td><a href="https://www.figments.gg/">Truman's</a> </td>
+  <td><a href="https://www.linkedin.com/in/jay-rosenkrantz-05846511b/">Jay Rosenkrantz</a>, <a href="https://www.linkedin.com/in/scottrosenkrantz/">Scott Rosenkrantz</a></td>
+      <td> Los Angeles, CA </td>
+      <td> September, 2019 </td>
+  </tr>
+            <tr>
+  <td><a href="https://www.zorocard.com/">Zoro Card</a> </td>
+  <td><a href="https://www.linkedin.com/in/zakgrove/">Zak Grove</a>, <a href="https://www.linkedin.com/in/rogeralanmorris/">Roger Morris</a></td>
+      <td> Bloomington, IN </td>
+      <td> October, 2019 </td>
+  </tr>
   </table>
   
