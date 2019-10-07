@@ -74,5 +74,11 @@
       <td> Bloomington, IN </td>
       <td> October, 2019 </td>
   </tr>
+              <tr>
+  <td><a href="https://www.mavely.life/">Mavely</a> </td>
+  <td><a href="https://www.linkedin.com/in/evanjwray/">Evan Wray</a>, <a href="https://www.linkedin.com/in/peggy-o-flaherty-50642426/">Peggy O'Flaherty</a></td>
+      <td> Chicago, IL </td>
+      <td> October, 2019 </td>
+  </tr>
   </table>
   
