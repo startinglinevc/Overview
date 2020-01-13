@@ -21,7 +21,7 @@
   </tr>
       <tr>
         <td> <a href="http://www.havenprotocol.com">Haven Protocol ($XHV)</a></td>
-        <td> <a href="https://twitter.com/haven_dev">Haven Dev</a>, <a href="https://twitter.com/donjordev">Donjor</a> </td>
+        <td> Dweab, Pierre Lafitte, Neac </td>
       <td> Unknown </td>
       <td> August, 2018 </td>
   </tr>
