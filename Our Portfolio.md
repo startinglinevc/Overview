@@ -80,5 +80,17 @@
       <td> Chicago, IL </td>
       <td> October, 2019 </td>
   </tr>
+                <tr>
+  <td>Stealth App For Workers </td>
+  <td>Stealth</td>
+      <td> Chicago, IL </td>
+      <td> December, 2019 </td>
+  </tr>
+                <tr>
+  <td><a href="https://www.soona.co">soona</a> </td>
+  <td><a href="https://www.linkedin.com/in/elizabethgiorgi/">Liz Giorgi</a>, <a href="https://www.linkedin.com/in/hayleyanderson/">Hayley Anderson</a></td>
+      <td> Denver, CO </td>
+      <td> February, 2020 </td>
+  </tr>
   </table>
   
