@@ -92,5 +92,17 @@
       <td> Denver, CO </td>
       <td> February, 2020 </td>
   </tr>
+                  <tr>
+  <td>Stealth </td>
+  <td>Stealth wage advance app</td>
+      <td> Chicago, IL </td>
+      <td> March, 2020 </td>
+  </tr>
+                  <tr>
+  <td><a href="https://www.airvet.com">Airvet</a> </td>
+  <td><a href="https://www.linkedin.com/in/brandonwerber/">Brandon Werber</a></td>
+      <td> Los Angeles, CA </td>
+      <td> April, 2020 </td>
+  </tr>
   </table>
   
