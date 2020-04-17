@@ -93,8 +93,8 @@
       <td> February, 2020 </td>
   </tr>
                   <tr>
+  <td>Stealth Wage Advance App </td>
   <td>Stealth </td>
-  <td>Stealth wage advance app</td>
       <td> Chicago, IL </td>
       <td> March, 2020 </td>
   </tr>
