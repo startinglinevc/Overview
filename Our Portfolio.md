@@ -104,5 +104,11 @@
       <td> Los Angeles, CA </td>
       <td> April, 2020 </td>
   </tr>
+      <tr>
+  <td>Stealth Micro Schooling Marketplace </td>
+  <td>Stealth</td>
+      <td> New York, NY </td>
+      <td> July, 2020 </td>
+  </tr>
   </table>
   
