@@ -110,5 +110,10 @@
       <td> New York, NY </td>
       <td> July, 2020 </td>
   </tr>
+    <td>Stealth Female Wellness </td>
+  <td>Stealth</td>
+      <td> Brooklyn, NY </td>
+      <td> September, 2020 </td>
+  </tr>
   </table>
   
