@@ -105,15 +105,40 @@
       <td> April, 2020 </td>
   </tr>
       <tr>
-  <td>Stealth Micro Schooling Marketplace </td>
-  <td>Stealth</td>
+  <td><a href="https://www.getschoolhouse.com">School House</a></td>
+  <td><a href="https://www.linkedin.com/in/brian-tobal-a4946911/">Brian Tobal</a>, <a href="https://www.linkedin.com/in/joseph-connor-b6a96a16/">Joseph Conner</a></td>
       <td> New York, NY </td>
       <td> July, 2020 </td>
   </tr>
-    <td>Stealth Female Wellness </td>
-  <td>Stealth</td>
+  <tr>
+    <td><a href="https://www.aavia.io">Aavia</a> </td>
+  <td><a href="https://www.linkedin.com/in/aagyamathur/">Aagya Mathur</a>, <a href="https://www.linkedin.com/in/aksuzuki/">Aya Suzuki</a>,  <a href="https://www.linkedin.com/in/alexis-wong-aavia/">Alexis Wong</a> </td>
       <td> Brooklyn, NY </td>
       <td> September, 2020 </td>
+  </tr>
+  <tr>
+      <td>stealth social media </td>
+  <td>Stealth </td>
+      <td> Los Angeles, CA </td>
+      <td> October, 2020 </td>
+  </tr>
+    <tr>
+      <td><a href="https://www.trillnyc.com">Trill</a></td>
+  <td><a href="https://www.linkedin.com/in/rahultiwaritg/">Rahul Tiwari</a></td>
+      <td> New York, NY </td>
+      <td> January, 2021 </td>
+  </tr>
+    <tr>
+      <td><a href="https://www.meetwithspot.com">Spot</a> </td>
+  <td><a href="https://www.linkedin.com/in/gregcaplan/">Greg Caplan</a></td>
+      <td> Chicago, IL </td>
+      <td> January, 2021 </td>
+  </tr>
+    <tr>
+      <td>Stealth Creator Economy </td>
+  <td>Stealth </td>
+      <td> Ann Arbor, MI </td>
+      <td> February, 2021 </td>
   </tr>
   </table>
   
