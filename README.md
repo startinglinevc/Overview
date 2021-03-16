@@ -24,9 +24,9 @@ We, like many Americans, were struck by the November 2016 elections and it was o
 We do not invest in enterprise software nor affluence or luxury focused products (unless they are substantially more affordable than their peers).
 
 ## The Checks We Write
-We are a first check venture capital fund, meaning that we aim to anchor true seed rounds with check sizes ranging from $750,000 - $1,250,000 in rounds ranging from $1 - $5M. Our sweet spot within that range is leading $1M into a $2.5M seed round. 
+We are a first check venture capital fund, meaning that we aim to anchor true seed rounds with check sizes ranging from $750,000 - $1,500,000 in rounds ranging from $1 - $5M. Our sweet spot within that range is leading $1M into a $2.5M seed round. 
 
-Our fund is unique in that we reserve very little money for follow-ons into future rounds. We are blessed with a risk tolerant group of LPs who have approved a fund structure whereby we invest 80% of our capital up front into first checks and reserve only 20% for follow-ons. We guarantee each investment we seed a follow-on check of $100,000 irrespective of progress or next round size.
+Our fund is unique in that we reserve very little money for follow-ons into future rounds. We are blessed with a risk tolerant group of LPs who have approved a fund structure whereby we invest 75% of our capital up front into first checks and reserve only 25% for follow-ons. We guarantee each investment we seed a follow-on check of $100,000 irrespective of progress or next round size.
 
 We believe this unorthodox structure is beneficial for early stage founders for a variety of reasons:
 1. It allows founders & investors to be deeply aligned across a spectrum of goals and outcomes. We are both fighting for the same oxygen in future rounds.
@@ -35,7 +35,7 @@ We believe this unorthodox structure is beneficial for early stage founders for 
 4. It allows founders to more quickly close their seed rounds and get back to build their business - rather than spending months accumulating a series of smaller checks.
 
 ## Geographic Focus
-Starting Line is HQ'd in Chicago, IL and we are highly biased towards our hometown of Chicago and other underserved communities. However, we have no formal geographic policy - and instead are inspired by founders aiming to solve problems for average, everyday Americans. Our fund investments have ranged from New York to Austin and our angel investments have criss-crossed the country from SF to NYC to Seattle and everything in between.
+Starting Line is HQ'd in Chicago, IL and we are highly biased towards our hometown of Chicago and other underserved communities. However, we have no formal geographic policy - and instead are inspired by founders aiming to solve problems for average, everyday Americans. Our fund investments have ranged from New York to Austin to Los Angeles and our angel investments have criss-crossed the country from SF to NYC to Seattle and everything in between.
 
 ## Getting in Touch
 There is no right or wrong way to get in touch with us. A great cold e-mail is far superior than an intro from someone we don't know all that well.
