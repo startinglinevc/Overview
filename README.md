@@ -59,4 +59,6 @@ We try to produce a substantial amount of content and make it accessible widely.
 * [Twitter](https://twitter.com/HaleyKwaitZollo)
 * [LinkedIn](https://www.linkedin.com/in/haley-kwait-69a22950/)
 
-
+**Scott**
+* [Twitter](https://twitter.com/ScottBoehme)
+* [LinkedIn](https://www.linkedin.com/in/scott-holloway-2b64a913/)
