@@ -135,10 +135,16 @@
       <td> January, 2021 </td>
   </tr>
     <tr>
-      <td>Stealth Creator Economy </td>
-  <td>Stealth </td>
-      <td> Ann Arbor, MI </td>
+  <td><a href="https://www.theplayerstrunk.com">The Player's Trunk</a></td>
+  <td><a href="https://www.linkedin.com/in/jason-lansing/">Jason Lansing</a>, <a href="https://www.linkedin.com/in/cmatt1/">Charles Matthews</a>, <a href="https://www.linkedin.com/in/austin-pomerantz-56557b155/">Austin Pomerantz</a>, <a href="https://www.linkedin.com/in/hunter-pomerantz/">Hunter Pomerantz</a>  </td>
+      <td> Chicago, IL </td>
       <td> February, 2021 </td>
+  </tr>
+     <tr>
+  <td><a href="https://www.stackedinvest.com">Stacked</a></td>
+  <td><a href="https://www.linkedin.com/in/joelbirch1/">Joel Birch</a></td>
+      <td> Chicago, IL </td>
+      <td> March, 2021 </td>
   </tr>
   </table>
   
