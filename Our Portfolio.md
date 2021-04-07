@@ -146,5 +146,11 @@
       <td> Chicago, IL </td>
       <td> March, 2021 </td>
   </tr>
+    <tr>
+  <td>Stealth Edtech</td>
+  <td>Stealth</td>
+      <td> Chicago, IL </td>
+      <td> April, 2021 </td>
+  </tr>
   </table>
   
