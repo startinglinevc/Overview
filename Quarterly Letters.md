@@ -15,6 +15,63 @@ Because it would be inappropriate to share the specific performance updates of S
 * [Q2 2018](https://github.com/startinglinevc/Overview/blob/master/Quarterly%20Letters.md#q2-2018)
 * [Q1 2018](https://github.com/startinglinevc/Overview/blob/master/Quarterly%20Letters.md#q1-2018)
 
+## Q1 2021
+
+**On Hype Cycles**
+
+The best interview I listened to this past quarter was between Jordan Fish (pictured to the left, below), better known by his online handle “CryptoCobain” and Su Zhu  (pictured right), the CEO and Founding Partner of Three Arrows Capital, a leading cryptocurrency investment firm. While Su has a more traditional background than Jordan, both are largely self-made through the cryptocurrency arena, with Jordan, specifically, having reportedly traded a single $100 deposit into over $250M of profits since 2013.
+
+My favorite moment came about fifteen minutes in, with Su offering the following analysis:
+
+>“In general with hype cycles, the hype is usually correct, it’s just early. I think that’s almost always been true in technology, it has always been true in markets. Very rarely do people get very hyped about something and then it’s not actually that good of an idea"
+
+This, of course, is a more refined synthesis of the famous Gartner Hype Cycle analysis for Emerging Technologies:
+
+An understanding of hype cycles has perhaps never been more relevant than the past quarter where emerging asset classes, ranging from software startups to cryptocurrencies to digital basketball cards (Topshot) to cryptopunks (NFTs) to meme stonks have all seen surging valuations and hype. The following tweet gave me a pretty hearty chuckle: 
+
+One of the blessings of a ten year venture capital fund cycle, is that we have a broad margin of error when investing through hype cycles. Ideally, you back an emerging trend ahead of a hype cycle – such as our investment in Cameo, before the “creator economy” was even a coined phrase. But as these cycles increasingly speed up – and, accordingly go from peak to trough to peak in 2-4 years – it is acceptable for us to invest even at later points in the curve. An example of this would be our June 2018 investment in Unchained Capital, nearly buying the peak of the last bitcoin cycle, but which has nevertheless grown approximately 40x since then. The learnings from that investment are twofold: (a) invest in founders who are missionaries, not mercenaries, meaning they deeply care about the category they are building into, not simply hoping to profit off it and (b) invest in founders who are capable and enthusiastic fundraisers, as they will almost certainly need to source incremental capital to ensure solvency during periods of lower category interest.
+
+As it relates to today, we are spending a lot of time thinking about how to build category exposure to NFTs, collectibles, and the growing populist trend within broader equity markets. All of these are now on the radar emerging markets, many with ample publicity. But we are confident that by identifying and backing the right founding teams, even though these markets are somewhat less nascent, we will be materially rewarded over the course of this fund cycle. 
+
+**The Next Consumer Bet: Mass Inflation**
+
+Over the past twelve months, everyone became armchair epidemiologists. Over the next twelve months, they will magically transform into macroeconomists.
+
+I have written before that our job as venture capital investors is not to predict the future, but rather to be astutely cognizant of the present. While there are many identifiable catalysts for near term behavioral change – such as vaccinations and hybrid work environments – it seems to us that the greatest under-appreciated near term catalyst for mass behavioral change is another decade of great inflation.
+
+In our Q2 2020 memo, in a piece entitled “Money Printer Go Brrrrr,” we shared the following:
+The reason – as we know – that economic carnage wasn’t so bad is that the Federal Reserve printed many trillions of dollars and doled them out to corporations and taxpayers alike. Here’s what the impact looks like (10 yr chart) from an M1 & M2 money supply perspective: 
+   
+But wait, there’s more! In a March 22nd interview on 60 Minutes, Neel Kashkari, President of the Federal Reserve Bank of Minneapolis in response to interviewer Scott Pelly’s question of “can you characterize everything the Fed has done this past week as essentially flooding the system with money?” responded: “Yes. Exactly. And there is no end to our ability to do that.” 
+
+Neel, rather unsurprisingly, given his role and title, turned out to be correct. Earlier this month, the Federal Reserve printed a fresh $1.9T of cash, backed solely by the trust and faith in the United States government. Given the relative nascence of modern monetary theory, no one actually knows what will happen when you infuse a local economic system with $5-8T of capital, roughly 50% of all money in circulation. But you’d be ignorant to assume there won’t be any consequences.
+
+The interesting thing about the possibility of great inflation is how unaware the general public appears to be of it actually manifesting. In fact, in this Radiolab podcast from January 2021, recorded by NPR/New York Public Radio, and entitled More Money, Less Problems, the host attempt to argue that inflation is mostly a behavioral construct and, should we choose to, we can simply will it away:
+> JACOB GOLDSTEIN: Yes. What people expect about inflation actually affects whether there is inflation and how much.
+> JAD ABUMRAD: Wait. I'm sorry. You're saying if I think there's going to be inflation, that somehow manifests inflation into existence?
+> BECCA BRESSLER: Yes.
+> JACOB GOLDSTEIN: Exactly right, exactly right.
+> BECCA BRESSLER: So expecting inflation can literally cause it. But because inflation has been absent for so long...
+> JACOB GOLDSTEIN: We just live in a world where we expect that prices aren't going to go up very much.
+> BECCA BRESSLER: And so that expectation...
+> JACOB GOLDSTEIN: It effectively keeps inflation low.
+> BECCA BRESSLER: Oh, my God. So it's a self-fulfilling prophecy.
+> JACOB GOLDSTEIN: It's - it is absolutely a self-fulfilling prophecy.
+
+More articles worth reading include “Asset Price Inflation” is not a thing, wherein Matt Ygelias argues that asset prices fundamentally do not define inflation and subtly opines one of my favorite concepts of the past quarter: “weird stuff happens in good times.” I’ve also been learning Capitalism in America by Alan Greeenspan and Adrian Woolridge, who spend a couple chapters on the history of Stagflation. But in truth, none of us at Starting Line are trained macroeconomists, although Haley and Scott both get honorable mentions for their Bachelors Degrees in Finance! 
+
+Nevertheless, we are in the business of observing the present and there are certain facts worth paying attention to. From Kyle Bass, CIO of Hayman Capital Management on CNN’s First Move with Julia Chatterly: 
+
+>When you look at the way that inflation’s calculated, specifically, 40% or so of the inflation calculation is focused on US rents, and they call it owner’s equivalent – and housing – but as we just saw in the Case-Schiller print, you saw housing prices year over year, nationwide, were up 10%, and yet the housing component of inflation is way down, holding inflation down. And you have to scratch you head and say ‘what’s going on?’ 
+
+>And what’s really going on is the fact in the mismanaged states in the US, ie call it New York and California, you’re seeing rents collapse, and the price at which people are willing to rent things on the coasts is affecting the way that inflation’s calculated. For those of us in the rest of the United States, we’re seeing already substantial inflation. Look at copper – copper’s doubled last year. Lumber prices, doubling. The price to build things is doubling year over year. We’re not talking about a 1% decline in inflation or a flat number, we’re talking about a doubling in many areas of your life. So, I think inflation’s already here and everybody knows it…and people need to be thinking longer term about what they want to own. 
+
+I have believed for some time now that the cryptocurrency markets – because of their general insularity from regulatory input – are more reflective of fiat currency strengths and inflation than any centralized source. So it might not be surprising then that myself – as well as many other cryptocurrency enthusiasts – lend our digitized dollars (USDT) through collateralized, peer to peer platforms, which currently offer 35-50% annualized interest:
+ 
+If forced, I would guess that’s likely a closer range to true inflation than 2-3%. But, as noted, none of us are trained macroeconomists. Therefore, we have – and will continue – to study the history of the great inflation between 1965-1983, its causes, nuaces, and, most importantly, the behavioral changes prompted by consumer reactions to extreme inflation, that will hopefully prompt multiple investment opportunities if those forces do materialize.
+![image](https://user-images.githubusercontent.com/46267259/114234299-302ccb80-9944-11eb-9448-48867656e874.png)
+
+
 ## Q2 2019
 
 **THE FOUR MINUTE MILE**
