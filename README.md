@@ -64,3 +64,6 @@ We try to produce a substantial amount of content and make it accessible widely.
 **Scott**
 * [Twitter](https://twitter.com/ScottBoehme)
 * [LinkedIn](https://www.linkedin.com/in/scott-holloway-2b64a913/)
+
+**Matt**
+* [Bio](https://about.grubhub.com/about-us/executive-team/default.aspx)
