@@ -10,8 +10,13 @@ That’s why we’re releasing our formal policy in support of mental health. It
 
 To that end, we are offering the following subsidies to founders in Starting Line's portfolio:
 
-* Starting Line will subsidize each founder’s first session of therapy, executive coaching, or co-founder counseling (up to $200.)
-* If any founder commits to a three month term of engaging therapy, executive coaching, or co-founder counseling, Starting Line will cover the first three of those sessions (up to $200 per session.)
+* Starting Line will subsidize each founder’s first three sessions of therapy, executive coaching, or co-founder counseling (up to $200 each.)
+* Starting Line will provide a $750 subsidy for each portfolio company to organize and host an executive coach or therapist to work with their founding team on communication, empathy, or another topic that advances the cohesion of the founding team. 
+
+To facilitate founder therapy, we assist in the following ways:
+1. We request the state/location where the founder is requesting therapy.
+2. We help source therapists or coaches who are local and specialize in working with entrepreneurs in high stress/high anxiety settings.
+3. We provide a list of suggestions and contact information. It is the founders responsibility to engage with therapist and begin the relationship.
 
 The goals here are straightforward – first, to reduce the friction and barriers towards engaging on this important issue. And secondly, to provide an incentive towards longer term care and health. Through our networks, we are happy to anonymously assist any founder who is interested in therapy, executive coaching, or co-founder counseling, but doesn’t know where to start.
 
