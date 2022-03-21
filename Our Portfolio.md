@@ -147,10 +147,40 @@
       <td> March, 2021 </td>
   </tr>
     <tr>
-  <td>Stealth Edtech</td>
-  <td>Stealth</td>
+  <td><a href="https://www.protege.com">Protege</a></td>
+  <td>Jackson Jhin, Mike Cruz</td>
       <td> Chicago, IL </td>
       <td> April, 2021 </td>
+  </tr>
+      <tr>
+  <td><a href="https://www.drivego.com">Go</a></td>
+  <td>Michael Beauchamp</td>
+      <td> Philadelphia, PA </td>
+      <td> May, 2021 </td>
+  </tr>
+      <tr>
+  <td>Stealth Commerce Enablement</td>
+  <td>Stealth</td>
+      <td> NY/Israel </td>
+      <td> June, 2021 </td>
+  </tr>
+      <tr>
+  <td>Stealth Crypto Wallet</td>
+  <td>Stealth</td>
+      <td> Atlanta, GA </td>
+      <td> July, 2021 </td>
+  </tr>
+        <tr>
+  <td><a href="https://wum.bo/">Wumbo</a></td>
+  <td>Anonymous</td>
+      <td> Chicago, IL </td>
+      <td> July, 2021 </td>
+  </tr>
+        <tr>
+  <td><a href="https://www.getpikup.com">Pikup</a></td>
+  <td>Bharat Pulgam</td>
+      <td> Minneapolis, MN </td>
+      <td> September, 2021 </td>
   </tr>
   </table>
   
