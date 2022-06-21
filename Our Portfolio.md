@@ -123,12 +123,6 @@
       <td> October, 2020 </td>
   </tr>
     <tr>
-      <td><a href="https://www.trillnyc.com">Trill</a></td>
-  <td><a href="https://www.linkedin.com/in/rahultiwaritg/">Rahul Tiwari</a></td>
-      <td> New York, NY </td>
-      <td> January, 2021 </td>
-  </tr>
-    <tr>
       <td><a href="https://www.meetwithspot.com">Spot</a> </td>
   <td><a href="https://www.linkedin.com/in/gregcaplan/">Greg Caplan</a></td>
       <td> Chicago, IL </td>
