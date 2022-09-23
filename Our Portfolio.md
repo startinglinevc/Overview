@@ -75,7 +75,7 @@
       <td> October, 2019 </td>
   </tr>
               <tr>
-  <td><a href="https://www.mavely.life/">Mavely</a> </td>
+  <td><a href="https://www.mavely.life/">Mavely (acq. NuSkin)</a> </td>
   <td><a href="https://www.linkedin.com/in/evanjwray/">Evan Wray</a>, <a href="https://www.linkedin.com/in/peggy-o-flaherty-50642426/">Peggy O'Flaherty</a></td>
       <td> Chicago, IL </td>
       <td> October, 2019 </td>
@@ -211,6 +211,24 @@
   <td><a href="https://www.linkedin.com/in/robwhiting/">Rob Whiting</a>,<a href="https://www.linkedin.com/in/robwhiting/">Kirill Moizik</a> </td>
       <td> Austin, TX </td>
       <td> February, 2022 </td>
+  </tr>
+   <tr>
+  <td>Stealth NFT</td>
+  <td><a href="https://www.linkedin.com/in/charlicohen/">Charli Cohen</a></td>
+      <td> London, UK </td>
+      <td> February, 2022 </td>
+  </tr>
+       <tr>
+  <td><a href="https://supercircle.world/">Supercircle</a></td>
+  <td><a href="https://www.linkedin.com/in/chloe-marie-songer-9b43302a/">Chloe Songer</a>,<a href="https://www.linkedin.com/in/stuart-ahlum-7126647b/">Stuart Ahlum</a> </td>
+      <td> Brooklyn, NY </td>
+      <td> February, 2022 </td>
+  </tr>
+     <tr>
+  <td><a href="https://www.sudshare.com">Sudshare</a></td>
+  <td><a href="https://www.linkedin.com/in/mortfertel/">Mort Fertel</a></td>
+      <td> Salt Lake City/Minneapolis </td>
+      <td> March, 2022 </td>
   </tr>
   
   </table>
