@@ -153,8 +153,8 @@
       <td> May, 2021 </td>
   </tr>
       <tr>
-  <td>Stealth Commerce Enablement</td>
-  <td>Stealth</td>
+  <td><a href="https://www.getfondue.com">Fondue</a></td>
+  <td><a href="https://www.linkedin.com/in/orencharnoff/">Oren Charnoff</a>,<a href="https://www.linkedin.com/in/williamherlands/">Will Herlands</a> </td>
       <td> NY/Israel </td>
       <td> June, 2021 </td>
   </tr>
@@ -171,10 +171,47 @@
       <td> July, 2021 </td>
   </tr>
         <tr>
-  <td><a href="https://www.getpikup.com">Pikup</a></td>
+  <td><a href="https://www.gobuncha.com">Buncha</a></td>
   <td>Bharat Pulgam</td>
       <td> Minneapolis, MN </td>
       <td> September, 2021 </td>
   </tr>
+          <tr>
+  <td><a href="https://www.umamicart.com">Umamicart</a></td>
+  <td><a href="https://www.linkedin.com/in/andrea-xu-she-her-35ba9435/">Andrea Xu</a>,<a href="https://www.linkedin.com/in/wsumnernichols/">Will Nichols</a></td>
+      <td> Brooklyn, NY </td>
+      <td> October, 2021 </td>
+  </tr>
+      <tr>
+  <td><a href="https://www.ubiquitousinfluence.com">Ubiquitious</a></td>
+  <td><a href="https://www.linkedin.com/in/jess-flack/">Jess Flack</a></td>
+      <td> Chattanooga, TN </td>
+      <td> October, 2021 </td>
+  </tr>
+    <tr>
+  <td>Stealth Commerce</td>
+  <td>Stealth</td>
+      <td> Chicago, IL </td>
+      <td> November, 2021 </td>
+  </tr>
+    <tr>
+  <td>Stealth Media</td>
+  <td><a href="https://www.linkedin.com/in/ipozin/">Ilya Pozin</a></td>
+      <td> Los Angeles, CA </td>
+      <td> December, 2021 </td>
+  </tr>
+     <tr>
+  <td>Stealth Social Media</td>
+  <td>Stealth</td>
+      <td> Los Angeles, CA </td>
+      <td> January, 2022 </td>
+  </tr>
+     <tr>
+  <td><a href="https://www.boompay.app">Boom Pay</a></td>
+  <td><a href="https://www.linkedin.com/in/robwhiting/">Rob Whiting</a>,<a href="https://www.linkedin.com/in/robwhiting/">Kirill Moizik</a> </td>
+      <td> Austin, TX </td>
+      <td> February, 2022 </td>
+  </tr>
+  
   </table>
   
