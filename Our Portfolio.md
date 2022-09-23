@@ -230,6 +230,24 @@
       <td> Salt Lake City/Minneapolis </td>
       <td> March, 2022 </td>
   </tr>
+     <tr>
+  <td>Stealth Marketplace</td>
+  <td>Stealth</td>
+      <td> Nashville, TN </td>
+      <td> May, 2022 </td>
+  </tr>
+      <tr>
+  <td>Stealth Marketplace</td>
+  <td>Stealth</td>
+      <td> Chicago, IL </td>
+      <td> July, 2022 </td>
+  </tr>
+      <tr>
+  <td>Stealth Commerce</td>
+  <td>Stealth</td>
+      <td> Los Angeles, CA </td>
+      <td> September, 2022 </td>
+  </tr>
   
   </table>
   
