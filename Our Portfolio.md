@@ -71,7 +71,7 @@
             <tr>
   <td><a href="https://www.zorocard.com/">Zoro Card</a> </td>
   <td><a href="https://www.linkedin.com/in/zakgrove/">Zak Grove</a>, <a href="https://www.linkedin.com/in/rogeralanmorris/">Roger Morris</a></td>
-      <td> Bloomington, IN </td>
+      <td> Austin, TX </td>
       <td> October, 2019 </td>
   </tr>
               <tr>
