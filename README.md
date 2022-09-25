@@ -17,7 +17,7 @@ This manual was inspired by our friends at Bloomberg Beta (one of our first inve
 * [Our Quarterly LP Letters](https://github.com/startinglinevc/Overview/blob/master/Quarterly%20Letters.md)
 
 ## What We Invest In 
-Starting Line is a thematic early stage venture capital fund focused on investing in consumer services and products that are both cheaper and better.
+Starting Line is a thematic early stage venture capital fund focused on investing in consumer marketplaces, services and products that are cheaper and better, improve access for the 99% + as well as the software infrastructure that enables it.
 
 We, like many Americans, were struck by the November 2016 elections and it was one of the inspirations behind the founding of this platform. Technology has the potential to democratize access to information, wealth and opportunity; however, over the past decade, the gap between the 1% and the 99% has widened substantially. We invest where we see opportunities to make products and services available to a broad range of Americans - not build incremental services for the affluent.
 
@@ -26,11 +26,11 @@ We do not invest in enterprise software nor affluence or luxury focused products
 ## The Checks We Write
 We are a first check venture capital fund, meaning that we aim to anchor true seed rounds with check sizes ranging from $750,000 - $2,000,000 in rounds ranging from $1 - $6M. Our sweet spot within that range is leading $1-1.25M into a $2.5M seed round. 
 
-Our fund is unique in that we reserve very little money for follow-ons into future rounds. We are blessed with a risk tolerant group of LPs who have approved a fund structure whereby we invest 75% of our capital up front into first checks and reserve only 25% for follow-ons. We guarantee each investment we seed a follow-on check of $100,000 irrespective of progress or next round size.
+We typically write our largest check in a Company's first round, though we do retain reserves for all portfolio investments.
 
-We believe this unorthodox structure is beneficial for early stage founders for a variety of reasons:
+We believe our structure of a 2:1 first check to reserves ratio is beneficial for early stage founders for a variety of reasons:
 1. It allows founders & investors to be deeply aligned across a spectrum of goals and outcomes. We are both fighting for the same oxygen in future rounds.
-2. It generates a strong market signal given that Starting Line only makes ~5-6 new investments per year. (We do not buy "options.")
+2. It generates a strong market signal given that Starting Line only makes ~6-8 new investments per year.
 3. It removes any negative market signaling from future financings.
 4. It allows founders to more quickly close their seed rounds and get back to build their business - rather than spending months accumulating a series of smaller checks.
 
@@ -42,7 +42,7 @@ There is no right or wrong way to get in touch with us. A great cold e-mail is f
 
 We recognize that as an entrepreneur it can often be difficult to gauge whom we know "well," so in general its best to bias towards introductions through founders we've invested in, or even employees at the companies we've invested in. As early stage investors, we often have 1:1 relationships with many of the first 50+ employees.
 
-In our first fund, we led investments off both cold e-mails and cold Twitter dms. We do read them and we do act on the ideas that inspire us.
+In our first two funds, we led investments off both cold e-mails and cold Twitter DMs. We do read them and we do act on the ideas that inspire us.
 
 ## How We Think
 We try to produce a substantial amount of content and make it accessible widely. We even open-source our quarterly LP letters so you can gain insight into the trends we're following, how we see the world, and the narrative we're telling our own investors. Here is a non-exhaustive list of ways to learn more about us:
