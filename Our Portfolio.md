@@ -248,6 +248,13 @@
       <td> Los Angeles, CA </td>
       <td> September, 2022 </td>
   </tr>
+        <tr>
+  <td>Stealth Labor Marketplace</td>
+  <td>Stealth</td>
+      <td> Chicago, IL </td>
+      <td> October, 2022 </td>
+  </tr>
+  
   
   </table>
   
