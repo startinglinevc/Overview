@@ -75,7 +75,7 @@
       <td> October, 2019 </td>
   </tr>
               <tr>
-  <td><a href="https://www.mavely.life/">Mavely (acq. NuSkin)</a> </td>
+  <td><a href="https://www.mavely.life/">Mavely (acq. NYSE: NUS)</a> </td>
   <td><a href="https://www.linkedin.com/in/evanjwray/">Evan Wray</a>, <a href="https://www.linkedin.com/in/peggy-o-flaherty-50642426/">Peggy O'Flaherty</a></td>
       <td> Chicago, IL </td>
       <td> October, 2019 </td>
@@ -93,8 +93,8 @@
       <td> February, 2020 </td>
   </tr>
                   <tr>
-  <td>Stealth Wage Advance App </td>
-  <td>Stealth </td>
+  <td><a href="https://www.joinklover.com">Klover</a> </td>
+  <td><a href="https://www.linkedin.com/in/brianmandelbaum/">Brian Mandelbaum</a> </td>
       <td> Chicago, IL </td>
       <td> March, 2020 </td>
   </tr>
@@ -105,7 +105,7 @@
       <td> April, 2020 </td>
   </tr>
       <tr>
-  <td><a href="https://www.getschoolhouse.com">School House</a></td>
+  <td><a href="https://www.getschoolhouse.com">School House</a> (acq. Runwise)</td>
   <td><a href="https://www.linkedin.com/in/brian-tobal-a4946911/">Brian Tobal</a>, <a href="https://www.linkedin.com/in/joseph-connor-b6a96a16/">Joseph Conner</a></td>
       <td> New York, NY </td>
       <td> July, 2020 </td>
@@ -148,7 +148,7 @@
   </tr>
       <tr>
   <td><a href="https://www.drivego.com">Go</a></td>
-  <td>Michael Beauchamp</td>
+  <td><a href="https://www.linkedin.com/in/michaeltbeauchamp/">Michael Beauchamp</a> </td>
       <td> Philadelphia, PA </td>
       <td> May, 2021 </td>
   </tr>
@@ -165,31 +165,31 @@
       <td> July, 2021 </td>
   </tr>
         <tr>
-  <td><a href="https://wum.bo/">Wumbo</a></td>
+  <td><a href="https://wum.bo/">Wumbo</a> (acq. Helium Labs)</td>
   <td>Anonymous</td>
       <td> Chicago, IL </td>
       <td> July, 2021 </td>
   </tr>
         <tr>
   <td><a href="https://www.gobuncha.com">Buncha</a></td>
-  <td>Bharat Pulgam</td>
+  <td><a href="https://www.linkedin.com/in/bpulgam/">Bharat Pulgam</a></td>
       <td> Minneapolis, MN </td>
       <td> September, 2021 </td>
   </tr>
           <tr>
   <td><a href="https://www.umamicart.com">Umamicart</a></td>
-  <td><a href="https://www.linkedin.com/in/andrea-xu-she-her-35ba9435/">Andrea Xu</a>,<a href="https://www.linkedin.com/in/wsumnernichols/">Will Nichols</a></td>
+  <td><a href="https://www.linkedin.com/in/andrea-xu-she-her-35ba9435/">Andrea Xu</a>, <a href="https://www.linkedin.com/in/wsumnernichols/">Will Nichols</a></td>
       <td> Brooklyn, NY </td>
       <td> October, 2021 </td>
   </tr>
       <tr>
   <td><a href="https://www.ubiquitousinfluence.com">Ubiquitious</a></td>
-  <td><a href="https://www.linkedin.com/in/jess-flack/">Jess Flack</a></td>
+  <td><a href="https://www.linkedin.com/in/jess-flack/">Jess Flack</a>, <a href="https://www.linkedin.com/in/brandongambucci/">Brandon Gambucci</a></td>
       <td> Chattanooga, TN </td>
       <td> October, 2021 </td>
   </tr>
     <tr>
-  <td>Stealth Commerce</td>
+  <td><a href="www.thedibz.com">Dibz</a>/td>
   <td>Stealth</td>
       <td> Chicago, IL </td>
       <td> November, 2021 </td>
@@ -213,7 +213,7 @@
       <td> February, 2022 </td>
   </tr>
    <tr>
-  <td>Stealth NFT</td>
+  <td><a href="www.rstlss.xyz">RSTLSS</a></td>
   <td><a href="https://www.linkedin.com/in/charlicohen/">Charli Cohen</a></td>
       <td> London, UK </td>
       <td> February, 2022 </td>
@@ -249,12 +249,16 @@
       <td> September, 2022 </td>
   </tr>
         <tr>
-  <td>Stealth Labor Marketplace</td>
-  <td>Stealth</td>
+  <td><a href="www.classet.org">Classet</a></td>
+  <td><a href="https://www.linkedin.com/in/gino-rooney-9792722b/">Gino Rooney</a>, <a href="https://www.linkedin.com/in/nick-jones-12838680/">Nick Jones</a>, <a href="https://www.linkedin.com/in/coopernewby/">Cooper Newby</a></td>
       <td> Chicago, IL </td>
       <td> October, 2022 </td>
   </tr>
-  
+    <td>Cloud Health Systems</td>
+  <td><a href="https://www.linkedin.com/in/apoorvamehta/">Apoorva Mehta</a></td>
+      <td> San Francisco, CA </td>
+      <td> January, 2023 </td>
+  </tr>
   
   </table>
   
