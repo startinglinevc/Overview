@@ -9,12 +9,89 @@ Each quarter, we circulate a variety of updates and thoughts to our fund's inves
 
 Because it would be inappropriate to share the specific performance updates of Starting Line's portfolio, we are only publishing the first section, "The Front Line." Our hope is that it provides some additional insight into the trends we're following and how we think:
 
+* [Q4 2022](https://github.com/startinglinevc/Overview/blob/master/Quarterly%20Letters.md#q4-2022)
+* [Q3 2022](https://github.com/startinglinevc/Overview/blob/master/Quarterly%20Letters.md#q3-2022)
+* [Q2 2022](https://github.com/startinglinevc/Overview/blob/master/Quarterly%20Letters.md#q2-2022)
+* [Q1 2022](https://github.com/startinglinevc/Overview/blob/master/Quarterly%20Letters.md#q1-2022)
 * [Q1 2021](https://github.com/startinglinevc/Overview/blob/master/Quarterly%20Letters.md#q1-2021)
 * [Q2 2019](https://github.com/startinglinevc/Overview/blob/master/Quarterly%20Letters.md#q2-2019)
 * [EOY 2018](https://github.com/startinglinevc/Overview/blob/master/Quarterly%20Letters.md#eoy-2018)
 * [Q3 2018](https://github.com/startinglinevc/Overview/blob/master/Quarterly%20Letters.md#q3-2018)
 * [Q2 2018](https://github.com/startinglinevc/Overview/blob/master/Quarterly%20Letters.md#q2-2018)
 * [Q1 2018](https://github.com/startinglinevc/Overview/blob/master/Quarterly%20Letters.md#q1-2018)
+
+## Q4 2022
+
+**On Growth vs Profitability**
+
+Something that is generally easy to do and generally low career risk is to embrace learned observations once they have become fairly obvious, for example suggesting in December 2022 “that the market currently prioritizes profitability over growth!” You are correct and everyone nods their heads in agreement!
+
+Something that is slightly harder to do is to articulate why the market now prioritizes profitability over growth. One answer that is unequivocally true although somewhat unsatisfying is that interest rates went up quickly due to aggressive fed policy. This is known to be true because the correlation between the historic October 2021 CPI print and the peak valuation of growth stocks is pretty darn near 100%. It is also known to be true because of the concept of the time value of money and that a higher Fed Funds rate today makes the incremental dollar ten years from now less valuable. Still, it is an unsatisfying answer because those are exogenous events and not intrinsic to either profitability nor growth.
+
+Something I would like to attempt is to compartmentalize the implications underpinning the mantras of profitability versus growth. In my opinion, it goes something like this:
+
+According to modern monetary theory, lower interest rates are a lever to stimulate economic activity. The less it costs to borrow money, the more investment risk individuals and businesses are willing to assume in order to expand. The implication therefore of lower rates – is that we are currently in, or will soon enter into, a period of market expansion. 
+
+Market expansion is an interesting concept. If we believe that markets are growing or will grow in the near term, we are incentivized to make decisions and take risks to capture an outsized share of this potential value creation. In a period of market expansion, one of the worst strategic outcomes is to allow market share to accrue to a competitor. This is because in the long run, it should be easier to acquire new customers who are non-consumers rather than intercept and re-orient customers later. As Clayton Christen opines, targeting non-consumption is “the most viable path to growth.” If market rates are telling us that we are in a period of non-consumption coming online, we should spend (arguably unprofitably) to capture it today and harvest it later.
+
+During these expansionary moments, the market correctly prioritizes companies that apply an aggressive growth mindset because they are more likely to accrue an outsized percentage of new market share.
+
+A lower rate environment implies that we have, or will soon, exit the expansionary period. Accordingly, if new customers are less available because markets are contracting or even just stagnant, investing aggressively into courting them will be a poor strategic decision in most cases. The market therefore penalizes businesses that ignore this shift and are making poor economic decisions. 
+
+This would suggest that it’s not that profitability is better or growth is better – it’s all a function of appropriate business strategy dependent on new customer availability. This is why at Starting Line we take a company by company approach on our guidance of how to maneuver the current market. It would be inappropriate to suggest that all companies should cut burn and work towards breakeven. For our portfolio companies in nascent categories with strong product/market pull and with clear signs that the category continues to expand around them, we are encouraging them to prioritize capturing share. For our invetments in contracting categories, for example those dependent on consumer discretionary spend, it makes sense for them to re-prioritize runway and profitability. It is all a function of customer capture.  
+
+One final note. In our Q2 2018 quarterly memo, I shared an essay entitled “Consolidator vs Consolidatee.” In it, I outlined the following:
+
+>"In many venture scale categories from fashion to fintech to food, the ability to raise upstream capital is materially contingent upon whether a company is perceived as likely to be the dominant brand and acquirer in their space – even if the current product or customer base are sub-scale. Why is this important? Because in today’s early stage venture markets, which feature an abundance of capital and relatively low barriers to launch products, every good idea or macro change inspires a dozen startups that are roughly similar. Therefore, each investment must pass an additional hurdle: can this Company achieve enough scale in a short period of time to become a consolidator?"
+
+This concept is an intriguing evolution in early stage investing in that it reorients much of what I observed in the mid 2010s. Of course every investor has always desired large outcomes, but during those years, investment mandates tended to be increasingly focused on metrics, cohort analyses, payback periods, etc. It’s not that granular numbers don’t matter – they should and do – but it appears that early stage investing is also reverting back to its fundamentals: does this management team have the acumen and experience to hire 100s of individuals and make multiple acquisitions in a short period of time AND is the category predisposed to enable strong velocity.
+It is for these reasons that every investment opportunity must be viewed through the lens of: how likely is it that this company and this management team will become a consolidator in their category. Companies with good metrics but facing headwinds from competitors with bigger balance sheets and better product teams will be unlikely to find the financing to survive. Big outcomes, those that generate a 10x+ return to LPs, are increasingly unlikely to come from “good businesses;” they are far more likely to come from category consolidators.
+
+It is unclear to us how the “consolidator” approach to venture capital plays out over the coming months and years. Venture investors – including us – are still heavily biased towards founders that are capable of quickly deploying large sums of capital towards building category killers. At the same time, we are seeing many of these pedigreed founders struggle to defend their vision of capital consumption when juxtaposed with upside down unit economics. Our belief is that over the past many years, “consolidators” were defined by a company’s balance sheet, not the underlying business nor its momentum in the category – a trend we continue to watch closely. 
+
+**The Ultimate Grift and the Perils of Trust**
+
+In early 2013, I sent an email that would forever change my life:
+
+ 
+
+I had stumbled across Nick’s blog after he visited my Linkedin profile. At the time, I was a second year MBA student at the University of Chicago Booth School of Business. I had a prestigious VC job lined up post graduation. I was a new father. Life was good!
+
+But Nick’s blog had opened a pandoras box for me. Among other things, he had written analytically about bitcoin. I had used bitcoin to deposit money in order to play online poker as early as 2012 but never considered it an investable asset. Nick liked my blog as well and we became friends. Unsurprisingly, I soon became obsessed with bitcoin. And Mastercoin. And peercoin. And counterparty. I cashed out the Johnson and Johnson shares my grandparents had gifted me at some point and put 100% of it into crypto. 
+
+When my full time VC role began, I met with founders with about 80% of my time. And I was presumably respectable at my job. But the remaining 20% was focused on learning crypto. I taught myself how to mine. I began posting on Bitcointalk, attending meetups, even becoming a Casascius enthusiast. When Mt Gox imploded in 2014, it was very clear to me that the warning signs mirrored the insolvencies I’d witnessed in the online poker industry. And furthermore, that the blockchain could’ve avoided the debacle given the real time visibility into wallets – de facto proof of reserves. So I wrote an Oped for the Wall St Journal on the subject.
+
+I kept studying the technology. I invested in the first ever crypto hedge fund (it ultimately also misappropriated investor funds!) I spoke at crypto conferences. Miraculously, crypto proceeds would ultimately provide the funds I needed to launch Starting Line.
+
+My old friend Nick had done pretty well for himself in the meantime. Obsessed with crypto, he dropped out of Yale School of Management after a semester, joined Coinbase as one of their first employees. Two years later, he would spin out on his own to launch 1Confirmation, an early crypto fund and one of the best performing pooled funds in history. Thankfully, we’re still friends.
+
+Which brings me to this exchange with Nick from six months ago:
+
+ 
+
+It was, in fact, obvious in time. 98 days to be exact. The FTX inferno reminded me of the words I had written to each and every one of you on October 4th:
+
+It wasn’t the first time I found myself swept up in an industry awash with overnight wealth creation and easy riches. As a Sophomore in college, I was in the early wave of teens and twenty somethings who found online poker, studied game theory, and quickly realized its earning potential far outpaced that of lawyers, doctors or surgeons. In 2012, I discovered bitcoin, taught myself how to mine, and watched intently as internet anons from Bitcointalk forums transitioned from anarchists to millionaires in an eight week period in late 2013. I reflect on these experiences and more in an old 2017 blog post, On Being Early and Being Right. 
+
+In both of those experiences, as well as 2021’s unicorn bubble, I watched as the industries I loved were overrun with naïve enthusiasts, opportunistic tourists, and grifters. And as each of those three manias evolved, I exhibited nearly identical behavior: initially avoiding most new entrants who I (often, incorrectly) assumed had only joined for the quick riches, thereafter capitulating slightly into the mania by aligning on occasion and experimentally with people whom I did not fully trust but had been deemed “thought leaders,” while ultimately reverting to my existing, trusted network and observing at a distance as the party carried on without me. In each of these instances, my conservative behavior undoubtedly left some upside on the table – but also smoothed out the volatility of my returns while avoiding outright frauds and cons.
+
+One of the reasons I personally had minimal exposure to the FTX ecosystem and why Starting Line generally avoided Sam’s circle of influence is due to friends I trust cautioning us accordingly. As evidenced above, I generally thought he was affable and harmless. And I was wrong. But I didn’t risk much in his products because the people I trusted most saw red flags. 
+
+At Starting Line, we’ll gladly admit that we are unlikely to be the smartest minds in the room (in fact, as a general rule, we want to invest in founders far smarter than us.) But we are aligned on our collective superpower: cleaving to inherently interesting, intellectually curious, risk taking people, who are fundamentally trustworthy. This can take time. Decades. But the long game will always be worth it.
+
+One example: in 2015 my dear friend Taylor approached with a crazy idea for an on demand app that would allow anyone to see celebrity locations in real time and book a “meetup” with them in order to take a selfie. Selfies, he related to me, had eclipsed autographs in importance to millennials and GenZ. While I found the concepts intellectually stimulating, I told him the idea wouldn’t work because only one city in the world had enough density of celebrities to actually execute matches with any consistency. Twelve months later I would meet Cameo. We are all a byproduct of our networks. And high integrity friends make us 10x better.
+
+There will always be a new frontier and new frontiers will always be vectors for fraud. In 2010, when Full Tilt Poker misappropriated customer funds, it was online poker. In 2018 and 2019, with Theranos and Outcome Health, it was healthtech. In 2022, it’s crypto. In 2024, it will be something else. Wherever it is, we are likely to be there. And we are likely to get some right and get some wrong.
+
+Our continued edge as a firm is that as technology and markets inevitably evolve, we have accumulated a network of intellectually curious thinkers – of the utmost integrity – who will help guide us towards similar founders and thinkers who share our values and our mission. 
+
+Everyone on team Starting Line will relate that we spend more time on personal references than any other form of diligence. Our personal diligence goes beyond inquiring about strengths and weaknesses. We demand an understanding of the journey, the incentives and the motivations for a set of entrepreneurs to find themselves on the starting line of a new company. Each startup backstory and founding team is a puzzle and one of our jobs as managers is to ensure that the puzzle is congruous and fits together. 
+
+This approach means we will almost certainly sacrifice upside when dynamic, talented tourists enter the market. And we are comfortable with that. We are here to invest. We want no part of the grift. 
+![image](https://user-images.githubusercontent.com/46267259/225970158-1245c834-1387-4745-a00f-88b3ebb55434.png)
+
+
+
 
 ## Q1 2021
 
