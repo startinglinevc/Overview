@@ -88,7 +88,195 @@ Our continued edge as a firm is that as technology and markets inevitably evolve
 Everyone on team Starting Line will relate that we spend more time on personal references than any other form of diligence. Our personal diligence goes beyond inquiring about strengths and weaknesses. We demand an understanding of the journey, the incentives and the motivations for a set of entrepreneurs to find themselves on the starting line of a new company. Each startup backstory and founding team is a puzzle and one of our jobs as managers is to ensure that the puzzle is congruous and fits together. 
 
 This approach means we will almost certainly sacrifice upside when dynamic, talented tourists enter the market. And we are comfortable with that. We are here to invest. We want no part of the grift. 
-![image](https://user-images.githubusercontent.com/46267259/225970158-1245c834-1387-4745-a00f-88b3ebb55434.png)
+
+## Q3 2022
+
+**DEFINING PRODUCT MARKET FIT**
+
+In this quarter’s memo we are sharing two present day investment theses around Cameo (Fund I) and Go (Fund II), both of which we have updated this past month. To summarize our jobs as venture investors, it would be to invest in businesses that provide radically superior customer experiences to the status quo, and achieve that superiority through a technical, business model or network effect innovation.
+
+Investing in businesses that offer transformative consumer experiences is in many ways easier in the public markets and growth stages than the early stage private markets. In the public markets, the consumer experiences are generally observable and known. Those businesses then trade – not on their value propositions – but rather on a myriad of viewpoints relating to their underlying business model, their defensibility, and their solvency, all of which serve as inputs, broadly, for a terminal value analysis.
+
+Early stage private markets are, in my opinion, more complex. Not only are many of the business model inputs largely unproven, the proposed new value propositions are themselves often unproven! At our General Meeting and in our Q2 investor calls, we began reporting on Product Market Fit across our portfolio. Feedback on that metric questioned the heuristics we use to define product market fit. We hope these deeper dives will begin to unpack that thought process.
+
+The entirety of these investment theses can be reviewed by clicking the Google Doc links below. These links will remain active through October 14th and thereafter only available via request. As these memos include confidential information, we ask that they not be shared.
+
+**The Case for Cameo**
+
+Cameo offers a radically new customer experience, pioneering the ability for any consumer or business to book celebrities for messages, greetings, endorsements, or customer engagements. This is a dramatic 10-100x improvement over the status quo. For consumers, who historically would have zero direct access to their favorite talent. And for businesses, who historically would have to contract either traditional Hollywood agencies, the incumbent Speakers Bureaus, or pursue direct relationships. For businesses, the Cameo marketplace has also provided price discovery to a historically opaque process while also driving down the cost to hire talent for endorsements given they can fulfill the request at home, through their phones.
+
+Read the Entire Investment Memo in Google Docs
+
+**The Case for Go**  
+
+Go offers a radically superior customer experience, allowing any prospective car leaser to procure a new car from their phone or laptop, complete a checkout in under 10 minutes, and have the car delivered to their home within a week. In addition to the radically superior experience versus waiting and negotiating at a traditional dealership, Go is also able to deliver their cars to the customer for 15-25% cheaper monthly “lease” rates than traditional dealerships while requesting zero money down. In theory, unless a customer demanded a test drive, there would be zero incentive to transact via a traditional dealership as opposed to Go. Further, as described below, we believe Go has a series of compounding advantages that increase its network value and economics at scale.
+
+Read the Entire Investment Memo in Google Docs
+
+## Q2 2022
+
+**GENERAL MEETING RECAP**
+
+Over the course of our general meeting, we covered strategic deep dives into current market conditions, the strategies we underwrote when launching Starting Line, certain market changes that have forced us to adapt, as well as our action items and perceived edge moving into the next evolution of the market. We also analyzed Fund I and Fund II performance in detail.
+
+Although it is impossible to share the totality of those conversations in this memo, we have highlighted seven slides below with associated commentary:
+
+**THE RISK/STAGE CONTINUUM:** 
+
+Image Redcated
+ 
+Commentary: Many of you have inquired over the years whether valuations “outside the coasts” are more reasonable. My answer has remained consistent: that perhaps there is more “value” investing in non venture scale companies than in traditional venture markets, but that valuations for a venture scale $3M seed round tend to be in line with comparable coastal seed rounds.
+
+One nuanced difference between the two, however, is the margin of error of stage, in terms of provable product/market fit. While very few seed stage companies anywhere have demonstrable product/market fit, Chicago based seed stage companies – by virtue of tighter angel markets and fewer pre-seed funds – tend to bootstrap for several months at the outset, or otherwise drive efficiency in a cash constrained environment. This is in contradistinction to coastal markets where thriving angel ecosystems and cash rich technology workers have been willing to underwrite pre-launch risk for budding startups. 
+
+As the Covid boom proliferated and the entire economy became risk-on, this geographic “margin of error” – the opportunity to underwrite “seed” deals with real suggestions of product/market fit – quickly deteriorated. We discussed this at length in our 2021 Q4 memo, under the heading “The Risk/Stage Continuum.” Per the above graphs, our Fund II, launched in November 2020, shows a significant increase in overall riskiness. The number of dollars we invested into pre-launch businesses grew by 70%, and the number of dollars we deployed into true product/market fit halved, with valuations remaining at parity, or, in some cases, increasing. 
+
+Because the entire venture ecosystem has cooled over the past six months, we are hopeful that this graph will normalize towards Fund I risk allocation levels as we deploy the remaining 30-40% of our second fund into a less frothy fundraising environment.
+
+**GEOGRAPHIC ARBITRAGE:**
+
+Image Redacted
+ 
+Commentary: Although we are proud to have led investments in many of Chicago’s leading startups, we have historically eschewed both any branding as a “geo focused” venture capital firm, as well as the hypothesis that a geographically constrained investment mandate could produce top 5% returns.
+
+In theory, over the long run, I continue to believe both of those hesitancies to be accurate. But in the near term, and over the past several years, we have demonstrated material edge on a geographically denominated basis.
+
+Our two top performing investments from Fund I, Cameo and Klover, are both headquartered in Chicago. Our two top performing investments from Fund II (from a fundraising/valuation perspective), Stacked and Protégé, are also both headquartered in Chicago. In both funds, Chicago headquartered investments represent approximately 25% of total investments. In fact, all six of the “unicorns” that I, Ezra, have sourced in my venture career – Cameo, M1Finance, Kin, Flyhomes, Hungryroot and Sunbit – have all either been headquartered in Chicago, emerged from Chicago based universities, or otherwise had deep Chicago roots.
+
+We do not desire to be a “Chicago fund” and we do expect that our early successes will continue to accelerate a flywheel of strong dealflow nationally. Nevertheless, the data paints a compelling story. In addition, the recent growth of an unprecedented number of unicorns locally in Chicago, coupled with our clear data and networks advantage, do lead us to believe that in the near term a large number of ambitious, experienced executives will emerge from these growth stage companies to found new, compelling ideas. We believe that our Chicago based deal volume should increase 50-100% from 4-5 deals per fund towards 6-10.
+
+**BETTING ON NICHE MARKETS:**
+
+Image Redcated
+ 
+Commentary: One of our core operating philosophies has been a willingness to invest in markets perceived as “too small” or “too nascent” by other investors. Our experience as investors and operators has taught us that the intersection of great founders, great products, and behavioral change can quickly expand emerging markets beyond their expected opportunity size.
+
+The slide above represents our efforts and associated successes (blue circles) and failures (orange circles) of investing in niche, or “emerging” categories in Fund I. On the bottom line, the blue arrows represent minted unicorns or clearly category winners, with the red circles representing the startups whom we also spoke to, but ultimately chose a different market player. 
+
+For example, in the “creator economy,” a category that did not exist in 2016, we picked one of the clear 2-3 winners in Cameo. So too in mobile lending. Where we initially invested in Klover, the category was dramatically similar, with both Brigit and Dave only at Series A stage. At this point, we are confident Klover will be one of the 2-3 category winners. 
+
+When we invested in Unchained Capital in 2018, centralized crypto lenders had lent no more than $25M in aggregate across all known players – Unchained, BlockFi and Salt. We spoke to all the players, and co-led a seed round in Unchained, ultimately believing they had the strongest technology and the deepest moats. In retrospect, we were correct that the category mattered: BlockFi, Celcius, Voyager, Nexo, and more all became (or, perhaps, more correctly “had become” until their recent liquidity struggles) multi-billion dollar winners. While we are confident that Unchained will be a “successful” investment, in retrospect we likely did not select the highest multiple opportunity. In other categories such as digital extended warranties – a category that functionally did not exist when we invested in Clyde – it is far too early to tell how it all plays out, though we recognize Clyde is a #2 player to Extend.
+
+Net, we believe we have shown good judgment in selecting emerging categories that produce big outcomes and matter. We are high conviction that if we continue to pick high tailwind categories, we will ultimately align with some fair number of market winners. While Fund II is far too early to apply a similar analysis, we have invested in the following categories that are today small, but we believe can expand quickly:
+
+•	NCAA Name, Image and Likeness (NIL)
+•	Online Car Leases
+•	Interactive TVs
+•	Rental Credit Reporting
+•	Textile Recyling
+•	Peer to Peer Laundry
+•	Managed Crypto Advisory
+
+
+**DISCOUNTING FUND I:**
+
+Image Redacted
+ 
+Commentary: Despite the best of our intentions, there is no perfect methodology for accurately evaluating the value of our current portfolio given the pull back in revenue and EBITDA multiples across the technology industry.
+
+One approach we took, to provide a realistic and, ideally, overly conservative framework was to assess our portfolio companies against public market comps on an EV/Sales basis, then extrapolate out the enterprise value based on those public comps, and discount the value of our own holdings on that basis. Of course, this is an imperfect analysis as EV/Sales is only one variable. The public comps are imperfect. In all cases, our portfolio companies are growing faster than the public comps, and, in some cases, the public comps actually have negative growth. Many of our portfolio companies also hold material strategic value for a myriad host of potential acquirers which would inflect valuation higher. Nevertheless, the above slide is A framework – not the only one and dates to late May.
+
+For Fund I, there are really only six companies to date with sufficient revenues to fit into this analysis. These values, based on public equity multiples dating to late May suggest that our “mark to market” is directionally correct for Made In and Klover, but substantially off for the remainder. The biggest dislocations are for Cameo and Unchained, which is to be expected as multiples for both digital marketplaces (Etsy, Fiverr, Upwork, etc) and crypto companies have retraced dramatically. In aggregate, this approach would suggest our gross portfolio value on a “last round” basis, is overvalued by roughly 45%.
+
+
+
+**THE DILUTION BUBBLE:**
+
+Image Redacted
+
+       
+Commentary: There has been a lot of opinionated commentary on the valuation bloat in venture capital and the expected reversion over the coming months. In our opinion, that focus, while true, buries the lede.
+
+Private market valuations are unrealized, and therefore, absent excess demand in the form of secondary buyers, are merely an interim guide or proxy for ultimate outcome values. Dilution, however, is both a tangible and realized input, with a massive impact on ultimate distributions and multiples.
+
+Over the past several years, as valuations have bloated, firms such as Starting Line have been a major beneficiary of reduced overall dilution. As you can see in the above slide, the net dilution we’ve assumed across 3-4 funding rounds for many of our top Fund I companies, inclusive of options pool expansions is 30-45%. This is substantially less than the historical norm and allows us to maintain a large ownership stake over time while maintaining a fund strategy of holding only 25-35% of committed capital in reserves.
+
+If, as expected, valuations soften over the coming months and “flat round is the new up round,” we would expect our net dilution for the same stages to increase by 20-40%, especially if upstream investors demand larger employee options pools. This would have a negative impact on absolute fund multiple and has already forced to begin re-evaluating our reserves strategy.
+
+
+
+
+**FUND II PERFORMANCE TRENDLINE:**
+
+Image Redcated
+ 
+Commentary: Fund II, formally a November 2020 vintage, remains extremely nascent overall, with $17M of capital deployed to date, more than half of that in the past 12 months. We have between 7-9 core investments remaining from this fund. Four companies have raised incremental funding: Spot (led by Kleiner Perkins), Stacked (led by FTX/Alameda), Protégé (led by Sequoia), and Umamicart (led by insiders M13 and FJ Labs.)
+
+While fund performance should always be evaluated on an underlying business basis rather than a markup basis, that is often not the case as the former is complex while the latter is far more approachable. 
+
+But we thought it was important to share the progress across seven Fund II investments, all of whom have generated impressive revenue progress since our initial investment, even while not formally appreciating in “market” value.
+
+
+
+
+
+
+**CONCENTRATION IS CORRELATION:**
+
+Image Redacted
+ 
+Commentary: In late April, Cendana Capital, a leading Fund of Funds for early stage venture capital firms, published proprietary research suggesting that their best performing funds all over-indexed on a company ownership and concentration basis.
+
+Specifically, their analysis suggested that their best performing Seed funds had a 10:1 concentration ratio, while their Pre-Seed funds held a 5:1 concentration rate. For example, a $100M Seed fund, would need to own on average 10% of each company, at initial investment, to likely outperform. Similarly, a $100M Pre-Seed fund would need to own 20% on average, presumably due to a higher loss ratio, and additional dilution over time from investing one round earlier.
+
+Starting Line Fund II is a $30M vehicle, generally straddling the line between Pre-Seed and Seed. Accordingly, if we were a Seed fund, we would need to maintain 3% average ownership across first checks to viably outperform; 6% if we were a Pre-Seed fund. Realistically, we are somewhere in between.
+
+The slide above represents the Seed mandate on the blue line, with the grey line representing Pre-Seed thresholds. The blue line is representative of our average ownership allocations across our first 14 core (non scout) investments. Overall, we are pleased to be outperforming on this metric thus far in our second fund.
+
+
+## Q1 2022
+
+**Brian Chesky and a Semester Abroad**
+
+Something I have probably not shared in these memos is that I have odd hobbies, and one of the hobbies that I greatly enjoy doing in my spare time is reading transcripts of public company conference calls (I don’t have the patience to listen in real time). I don’t know why I particularly enjoy this exercise but I tend to do a lot of it on airplanes. My wife would much prefer I watch The Bachelor with her, her logic being I will learn more about human behavior and pop culture than I do from a call transcript, and, I do admit, she is probably correct. Nevertheless, I prefer conference calls.
+
+It has been interesting to track the Covid era IPO class, which as we all know, has not fared particularly well, with special demerits granted for being a technology company. Of the handful of exceptions, Airbnb has been particularly impressive – opening trading more than 2x above IPO pricing, and compounding gains since, with the stock price up 10%+ YTD in 2022.
+
+It is therefore not entirely surprising that one of the best conference calls I have ever encountered was Airbnb’s most recent EOY conference call. First, because CEO Brian Chesky presented the most comprehensive and thoughtful approach to expanding the supply side of his marketplace (and, consequently, expanding the total addressable market size) that I have ever heard, and second, because Chesky hosted a clinic on how to think through corporate marketing in a manner far more advanced than most startups we work with.
+
+First, on expanding supply:
+
+>"Stephen Ju Okay. So, Brian, I think you rightly called out the longer-term stays as your fastest-growing category, and you’re going to be in the roster as well. So, thinking about the other side of the equation and I guess, the supply side of the equation. So, how are your hosts responding to the rise in this type of demand? And are there any sort of supply and demand imbalance considerations we should be thinking about or worrying about? Because it seems like the pandemic has definitely taught the consumer that they can work and stay anywhere. Thanks.  
+
+>"Brian Chesky Hey Stephen. This is a really, really great question. And you are correct that there -- that -- just let me preface our supply question by saying that there’s this entire acceleration in this new category of travel, which is that people are less tethered to an office, so they can now live anywhere, not everyone but a lot of people…Now, because of that, we need to make sure we have enough supply. So, let’s talk about how we get that… The number one source of host on Airbnb are prior guests. In fact, in Q4, 33% of hosts were prior guests, and that number has been going up over the last couple of years. And we think the reason why is most of our community are regular everyday people. They’re teachers, they’re health care workers, they’re students and really everyday people. And as they make money and they get a lot of bookings, we think what’s happening is they’re telling their friends in their neighborhood and community, and they are also listing, and then some other people are expanding their business. So that’s the first thing is our global network. 
+
+>"Next, we have a full funnel approach to recruiting hosts. First, Stephen, we need to make sure that more people know about hosting. We want the brand of hosting to be as mainstream as the brand of Airbnb, which is a noun, a verb used all over the world. So, we did two major host brand campaigns last year: Made Possible by Hosting and a Stranger campaign, and both campaigns have driven a lot more traffic and a lot prospective people to Airbnb. 
+
+>"Next, we want to make sure it’s easier to become a host. So, what we did last year is we reduced the number of steps down to 10 easy steps to become a host. One of the things we’ve learned over the course of starting Airbnb and growing Airbnb is the number of -- the less friction, the better the conversion funnel. And so, as we make something easier, more people do it. And we also know that hosting is something that makes people ask questions about. And so, what we wanted to do is match our very best prospective host with their very best Superhost, so they can ask questions and get their questions answered. And this has led to a higher conversion rate of people becoming host. 
+
+>"And then finally, we wanted to start addressing the obstacles that people [have to] hosting. Now, one of the most common obstacles we heard are people were nervous about their home being damaged when they rented out to guests. And so, we launched last year with AirCover, top-to-bottom protection, free for every host only in our Airbnb, and this included $1 million damage protection and liability insurance. 
+
+>"[Last] because more people are flexible about where and when they’re traveling, it means we’re further up funnel. 800 million searches have used I’m Flexible. And this means that we can start to point demand where we have supply because we are not supply constrained globally on any night of the year. The challenge is just that too many people go to too few places at the same time. But as the world gets more flexible, we can balance supply-demand in addition to our other strategies. So that’s the answer, global network, a full host recruitment strategy and pointing demand to where we have supply.
+
+If you are an LP in Starting Line and work in most non technology industries, perhaps real estate or possibly consulting, this response probably seems astute and generally thoughtful but not particularly groundbreaking. If, however, you spend your life studying high growth startups, it is fundamental.
+
+Part of what makes venture capital fun is fast growth and high multiples. Founders are perceived to have generated tens or hundreds of millions of dollars of enterprise value overnight and employees share in both the economic reward and the adrenaline rush of the growth momentum. The challenging aspect of our jobs is how leadership, employees and investors react once growth begins to slow.
+
+Growth slowing can be a function of a few factors. Management/employees can feel they’ve worked hard and accomplished a lot, and begin working somewhat less hard. Customers can be harder to prospect and find than in the early days when there was ample underserved demand. A Company can experience inventory/supply shortages as they grow – often in markets which had never anticipated so much demand. And last, perhaps a combination of the prior two points, a startup can push the boundaries of its natural market size. (Uber’s slide deck famously advertised a taxi industry total market size of $4.2B; the company generated $26B in bookings in 2021.)
+
+The best consumer internet businesses tend to find constraints in that final bucket – testing the limits of their underlying market size. And the best consumer businesses will actively experience market size constraints several times over the course of their company journeys. Exceptional companies must spend a lot of time thinking through how to grow their addressable market. What makes Chesky’s response so remarkable is the clarity of framework in reducing these constraints, re-expanding the market size, and priming the Company for future growth.
+
+Later, on marketing: 
+
+>"We have a pretty different marketing approach than our competitors because we take a full-funnel approach to marketing. And it combines PR with brand marketing and performance marketing, and PR is actually probably the most important channel to build the brand of Airbnb. And that is because Airbnb has got an offering that's really unique. And so, because of that, people are deeply passionate about, they tell one another, and every Airbnb's become a noun and a verb used all over the world.
+
+>"We got more than half a million articles on Airbnb just last year alone. So, it's been a very important part of our marketing strategy. And I think this explains why nearly 90% of our traffic remains direct or on pace. Now, we take brand marketing, we think of as really investment in educating the world about Airbnb.
+
+>"So, it's not really about buying customers but educating people what makes Airbnb special. And then we think of performance marketing as really a laser, to laser in on balancing supply and demand…
+
+>"Number one, yes, we think the area that needs a little more investment is the brand of hosting. The brand of Airbnb is noun and verb used all over the world. And very few people at this point who travel regularly and book travel on Internet don't know about Airbnb. But we don't think enough people know about the incredible economic benefits to hosting and just be incredible, like what it brings to people's lives to be able to bring the world to their home.
+
+>"… Again, we think of marketing as education, education, and what we have that's unique and different, and we're going to educate the world about hosting, and we're going to educate the world about our new products and innovations this year.
+
+ 
+
+Chesky has one core insight on his business and he emphasizes it repeatedly: that Airbnb is an exceptional product, offering unique experiences, and he is darn proud of how special it is. To continue to grow, it is incumbent on him to focus less on selling his product and more on educating prospective buyers on what Airbnb can do for them. This is not necessarily an emotional appeal – but rather a combination of utility and novelty. 
+
+This is a key lesson that most startups tend to forget. Many founders we’ve backed are natural salespeople – that tends to correlate well with building a B2C startup. Yet this sales obsession tends to be the only heuristic in too many marketing organizations, with many growth leaders at our portfolio companies singularly focused on LTV:CAC ration (Life Time Value : Customer Acquisition Cost.) In many marketing conversations it feels as if the customer has been dehumanized – reduced to a series of psychographic inputs on a spectrum of look-a-like audience targeting. 
+
+Of course, direct response marketing is important, as Chesky notes. But the lesson is that marketing must start holistically. Any Company we’ve invested in to date has been a function of having conviction that the founders are remarkable and the products they’re building are incredible. The underlying opportunity is around communicating how special these products are – not merely trying to sell them.
+
+The second lesson from Chesky’s response is around the importance of organic growth, word of mouth and viral PR, per Gurley’s tweet. Although this is not a new insight from him, and is synergistic with the educational marketing approach above, it remains underreported overall and under-emphasized in nearly all of our portfolio companies. 
 
 
 
