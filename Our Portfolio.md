@@ -26,7 +26,7 @@
       <td> August, 2018 </td>
   </tr>
         <tr>
-          <td> <a href="http://www.joinclyde.com">Clyde</a></td>
+          <td> <a href="http://www.joinclyde.com">Clyde (acquired by Cover Genius)</a></td>
           <td> <a href="https://www.linkedin.com/in/brandon-gell-37836599/">Brandon Gell</a> </td>
       <td> New York, NY </td>
       <td> October, 2018 </td>
@@ -63,7 +63,7 @@
       <td> September, 2019 </td>
   </tr>
           <tr>
-  <td><a href="https://www.figments.gg/">Figments</a> </td>
+  <td><a href="https://www.figments.gg/">Heroic Story</a> </td>
   <td><a href="https://www.linkedin.com/in/jay-rosenkrantz-05846511b/">Jay Rosenkrantz</a>, <a href="https://www.linkedin.com/in/scottrosenkrantz/">Scott Rosenkrantz</a></td>
       <td> Los Angeles, CA </td>
       <td> September, 2019 </td>
@@ -81,8 +81,8 @@
       <td> October, 2019 </td>
   </tr>
                 <tr>
-  <td>Stealth App For Workers </td>
-  <td>Stealth</td>
+  <td><a href="https://getfrank.com/">Frank</a> </td>
+  <td><a href="linkedin.com/in/loganlahive/">Logan LaHive</a></td>
       <td> Chicago, IL </td>
       <td> December, 2019 </td>
   </tr>
@@ -93,7 +93,7 @@
       <td> February, 2020 </td>
   </tr>
                   <tr>
-  <td><a href="https://www.joinklover.com">Klover</a> </td>
+  <td><a href="https://www.attaindata.io/">Attain</a> </td>
   <td><a href="https://www.linkedin.com/in/brianmandelbaum/">Brian Mandelbaum</a> </td>
       <td> Chicago, IL </td>
       <td> March, 2020 </td>
@@ -231,14 +231,14 @@
       <td> March, 2022 </td>
   </tr>
      <tr>
-  <td>Stealth Marketplace</td>
-  <td>Stealth</td>
+  <td><a href="https://anycreek.com/">Anycreek</a></td>
+  <td><a href="https://www.linkedin.com/in/benjamin-lazarov-43495b26/">Ben Lazarov</a>, <a href="https://www.linkedin.com/in/nickclarson/">Nick Larson</a></td>
       <td> Nashville, TN </td>
       <td> May, 2022 </td>
   </tr>
       <tr>
-  <td>Stealth Marketplace</td>
-  <td>Stealth</td>
+  <td><a href="https://www.curbsidesos.com/roadside-assistance/">Curbside SOS</a></td>
+  <td>Matt Maloney</td>
       <td> Chicago, IL </td>
       <td> July, 2022 </td>
   </tr>
