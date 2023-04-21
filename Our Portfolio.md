@@ -142,7 +142,7 @@
   </tr>
     <tr>
   <td><a href="https://www.protege.com">Protege</a></td>
-  <td>Jackson Jhin, Mike Cruz</td>
+  <td><a href="https://www.linkedin.com/in/jacksonjhin/">Jackson Jhin</a>, <a href="https://www.linkedin.com/in/mdcruz/">Michael Cruz</a></td>
       <td> Chicago, IL </td>
       <td> April, 2021 </td>
   </tr>
