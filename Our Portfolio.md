@@ -254,10 +254,23 @@
       <td> Chicago, IL </td>
       <td> October, 2022 </td>
   </tr>
+  <tr>
     <td>Cloud Health Systems</td>
   <td><a href="https://www.linkedin.com/in/apoorvamehta/">Apoorva Mehta</a></td>
       <td> San Francisco, CA </td>
       <td> January, 2023 </td>
+  </tr>
+  <tr>
+      <td>Stealth</td>
+  <td><a href="https://www.linkedin.com/in/elanmosbacher/">Elan Mosbacher</a></td>
+      <td> Chicago, IL </td>
+      <td> February, 2023 </td>
+  </tr>
+    <tr>
+  <td><a href="https://northstarcare.com/">Northstar Care</a></td>
+  <td><a href="https://www.linkedin.com/in/amandawilsonmd/">Amanda Wilson</a></td>
+      <td> Seattle, WA </td>
+      <td> March, 2023 </td>
   </tr>
   
   </table>
