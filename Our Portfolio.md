@@ -262,7 +262,7 @@
   </tr>
   <tr>
       <td>Stealth</td>
-  <td><a href="https://www.linkedin.com/in/elanmosbacher/">Elan Mosbacher</a></td>
+  <td><a href="https://www.linkedin.com/in/elanmosbacher/">Elan Mosbacher</a>, <a href="https://www.linkedin.com/in/jacob-avraham-78bb701b6/">Jacob Avraham</a></td>
       <td> Chicago, IL </td>
       <td> February, 2023 </td>
   </tr>
