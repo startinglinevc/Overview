@@ -195,7 +195,7 @@
       <td> November, 2021 </td>
   </tr>
     <tr>
-  <td>Stealth Media</td>
+  <td><a href="http://www.freetelly.com">Telly</a></td>
   <td><a href="https://www.linkedin.com/in/ipozin/">Ilya Pozin</a></td>
       <td> Los Angeles, CA </td>
       <td> December, 2021 </td>
@@ -272,6 +272,10 @@
       <td> Seattle, WA </td>
       <td> March, 2023 </td>
   </tr>
-  
+  <td><a href="https://www.store.app">Store.App</a></td>
+  <td><a href="https://www.linkedin.com/in/morganbender/">Morgan Bender</a></td>
+      <td> San Francisco, CA </td>
+      <td> June, 2023 </td>
+  </tr>  
   </table>
   
