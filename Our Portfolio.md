@@ -153,7 +153,7 @@
       <td> May, 2021 </td>
   </tr>
       <tr>
-  <td><a href="https://www.getfondue.com">Fondue</a></td>
+  <td><a href="https://www.getfondue.com">Fondue (acq. PostScript)</a></td>
   <td><a href="https://www.linkedin.com/in/orencharnoff/">Oren Charnoff</a>,<a href="https://www.linkedin.com/in/williamherlands/">Will Herlands</a> </td>
       <td> NY/Israel </td>
       <td> June, 2021 </td>
@@ -189,7 +189,7 @@
       <td> October, 2021 </td>
   </tr>
     <tr>
-  <td><a href="www.thedibz.com">Dibz</a>/td>
+  <td><a href="https://www.thedibz.com">Dibz (acq. Treet)</a>/td>
   <td>Stealth</td>
       <td> Chicago, IL </td>
       <td> November, 2021 </td>
