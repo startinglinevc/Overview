@@ -189,7 +189,7 @@
       <td> October, 2021 </td>
   </tr>
     <tr>
-  <td><a href="https://www.thedibz.com">Dibz (acq. Treet)</a>/td>
+  <td><a href="https://www.thedibz.com">Dibz (acq. Treet)</a></td>
   <td>Stealth</td>
       <td> Chicago, IL </td>
       <td> November, 2021 </td>
