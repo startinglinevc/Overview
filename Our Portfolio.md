@@ -272,10 +272,23 @@
       <td> Seattle, WA </td>
       <td> March, 2023 </td>
   </tr>
+  <tr>
   <td><a href="https://www.store.app">Store.App</a></td>
   <td><a href="https://www.linkedin.com/in/morganbender/">Morgan Bender</a></td>
       <td> San Francisco, CA </td>
       <td> June, 2023 </td>
+  </tr>  
+    <tr>
+  <td><a href="https://www.birdwatch.com">Birdwatch</a></td>
+  <td><a href="https://www.linkedin.com/in/chrisrosenbaum/">Chris Rosenbaum</a></td>
+      <td> Philadelphia, PA </td>
+      <td> Dec, 2023 </td>
+  </tr>  
+     <tr>
+  <td>Stealth Gen AI</td>
+  <td>Stealth</td>
+      <td> Chicago, IL </td>
+      <td> Jan, 2024 </td>
   </tr>  
   </table>
   
