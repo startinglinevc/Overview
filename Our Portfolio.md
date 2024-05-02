@@ -117,7 +117,7 @@
       <td> September, 2020 </td>
   </tr>
   <tr>
-      <td>stealth social media </td>
+      <td><a href="https://www.reclip.app/">Reclip</a> </td>
   <td>Stealth </td>
       <td> Los Angeles, CA </td>
       <td> October, 2020 </td>
@@ -177,7 +177,7 @@
       <td> September, 2021 </td>
   </tr>
           <tr>
-  <td><a href="https://www.umamicart.com">Umamicart</a></td>
+  <td><a href="https://www.umamicart.com">Umamicart (acq. Shef)</a></td>
   <td><a href="https://www.linkedin.com/in/andrea-xu-she-her-35ba9435/">Andrea Xu</a>, <a href="https://www.linkedin.com/in/wsumnernichols/">Will Nichols</a></td>
       <td> Brooklyn, NY </td>
       <td> October, 2021 </td>
@@ -201,8 +201,8 @@
       <td> December, 2021 </td>
   </tr>
      <tr>
-  <td>Stealth Social Media</td>
-  <td>Stealth</td>
+  <td><a href="https://www.itsgood.life/">It's Good</a></td>
+  <td><a href="https://www.linkedin.com/in/mike-rosenthal-648714/">Mike Rosenthal</a>, <a href="https://www.johnlegend.com/">John Legend</a></td>
       <td> Los Angeles, CA </td>
       <td> January, 2022 </td>
   </tr>
@@ -243,7 +243,7 @@
       <td> July, 2022 </td>
   </tr>
       <tr>
-  <td>Stealth Commerce</td>
+  <td><a href="https://www.taptaplive.com/">TapTapLive</a></td>
   <td>Stealth</td>
       <td> Los Angeles, CA </td>
       <td> September, 2022 </td>
