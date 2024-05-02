@@ -290,5 +290,11 @@
       <td> Chicago, IL </td>
       <td> Jan, 2024 </td>
   </tr>  
+       <tr>
+  <td>Stealth Gaming</td>
+  <td>Stealth</td>
+      <td> Madrid, Spain </td>
+      <td> March, 2024 </td>
+  </tr>  
   </table>
   
