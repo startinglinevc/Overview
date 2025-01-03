@@ -296,5 +296,29 @@
       <td> Madrid, Spain </td>
       <td> March, 2024 </td>
   </tr>  
+         <tr>
+  <td><a href="https://www.mesamember.com">Mesa</a></td>
+  <td>Kelley Halpin</td>
+      <td> Austin, TX </td>
+      <td> May, 2024 </td>
+  </tr>  
+          <tr>
+  <td><a href="https://www.selleb.com">Selleb</a></td>
+  <td>Selleb Sisters</td>
+      <td> Chicago/NYC </td>
+      <td> June, 2024 </td>
+  </tr>  
+            <tr>
+  <td><a href="https://www.mindpalace.ai/">Mindpalace</a></td>
+  <td>Jared Spiegel</td>
+      <td> NYC </td>
+      <td> July, 2024 </td>
+  </tr>  
+              <tr>
+  <td><a href="https://www.superpower.com/">Superpower</a></td>
+  <td>Jacob Peters</td>
+      <td> San Francisco, CA </td>
+      <td> July, 2024 </td>
+  </tr>  
   </table>
   
