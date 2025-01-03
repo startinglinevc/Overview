@@ -320,5 +320,29 @@
       <td> San Francisco, CA </td>
       <td> July, 2024 </td>
   </tr>  
+                <tr>
+  <td><a href="https://outfitlabs.com/">Outfit Labs</a></td>
+  <td>Simon Qin</td>
+      <td> Chicago, IL </td>
+      <td> September, 2024 </td>
+  </tr>  
+                  <tr>
+  <td><a href="https://allup.world/">Allup</a></td>
+  <td>Joe Fernandex</td>
+      <td> Los Angeles, CA </td>
+      <td> November, 2024 </td>
+  </tr>  
+                    <tr>
+  <td>Stealth Consumer Health</td>
+  <td>Stealth</td>
+      <td> Midwest </td>
+      <td> December, 2024 </td>
+  </tr>  
+                    <tr>
+  <td>Stealth Healthcare</td>
+  <td>Stealth</td>
+      <td> Chicago, IL </td>
+      <td> January, 2025 </td>
+  </tr>  
   </table>
   
