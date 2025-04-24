@@ -328,7 +328,7 @@
   </tr>  
                   <tr>
   <td><a href="https://allup.world/">Allup</a></td>
-  <td>Joe Fernandex</td>
+  <td><a href="https://www.linkedin.com/in/joeyfernandez/">Joe Fernandex</a></td>
       <td> Los Angeles, CA </td>
       <td> November, 2024 </td>
   </tr>  
@@ -345,4 +345,22 @@
       <td> January, 2025 </td>
   </tr>  
   </table>
-  
+                    <tr>
+  <td><a href="https://coverstar.com/">Coverstar</a></td>
+  <td><a href="https://www.linkedin.com/in/ryan-a-so/">Ryan So</a></td>
+      <td> San Francisco, CA </td>
+      <td> April, 2025 </td>
+  </tr>  
+                      <tr>
+  <td>Stealth Media</td>
+  <td>Stealth</td>
+      <td> Brooklyn, NY </td>
+      <td> April, 2025 </td>
+  </tr>  
+                        <tr>
+  <td>Stealth AI Future of Work</td>
+  <td>Stealth</td>
+      <td> New York, NY </td>
+      <td> April, 2025 </td>
+  </tr>  
+  </table>  
