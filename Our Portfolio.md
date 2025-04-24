@@ -118,7 +118,7 @@
   </tr>
   <tr>
       <td><a href="https://www.reclip.app/">Reclip</a> </td>
-  <td>Stealth </td>
+  <td>The Fruhman Bruthers <3 </td>
       <td> Los Angeles, CA </td>
       <td> October, 2020 </td>
   </tr>
