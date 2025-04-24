@@ -344,7 +344,6 @@
       <td> Chicago, IL </td>
       <td> January, 2025 </td>
   </tr>  
-  </table>
                     <tr>
   <td><a href="https://coverstar.com/">Coverstar</a></td>
   <td><a href="https://www.linkedin.com/in/ryan-a-so/">Ryan So</a></td>
