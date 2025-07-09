@@ -17,14 +17,12 @@ This manual was inspired by our friends at Bloomberg Beta (one of our first inve
 * [Our Quarterly LP Letters](https://github.com/startinglinevc/Overview/blob/master/Quarterly%20Letters.md)
 
 ## What We Invest In 
-Starting Line is a thematic early stage venture capital fund focused on investing in consumer marketplaces, services and products that are cheaper and better, improve access for the 99% + as well as the software infrastructure that enables it.
+Starting Line is a thematic early stage venture capital fund focused on investing in a variety of emerging categories including consumer AI, consumer health/longevity, Gen Alpha/Gen Z, consumer mobile, consumer fintech, consumer marketplaces as well as the infrastructure that support them.
 
-We, like many Americans, were struck by the November 2016 elections and it was one of the inspirations behind the founding of this platform. Technology has the potential to democratize access to information, wealth and opportunity; however, over the past decade, the gap between the 1% and the 99% has widened substantially. We invest where we see opportunities to make products and services available to a broad range of Americans - not build incremental services for the affluent.
-
-We do not invest in enterprise software nor affluence or luxury focused products (unless they are substantially more affordable than their peers).
+We fundamentally believe that the intersection of great founders, great products, and emerging trends can create generational companies. We back only the most ambitious dreamers but we're not scared of markets that appear small today if we believe that can grow quickly and immensely.
 
 ## The Checks We Write
-We are a first check venture capital fund, meaning that we aim to anchor true seed rounds with check sizes ranging from $750,000 - $2,000,000 in rounds ranging from $1 - $6M. Our sweet spot within that range is leading $1-1.25M into a $2.5M seed round. 
+We are a first check venture capital fund, meaning that we aim to anchor true seed rounds with check sizes ranging from $500,000 - $1,500,000 in rounds ranging from $750K - $5M. Our sweet spot within that range is leading $750K-1.25M into a $2.5M seed round. 
 
 We typically write our largest check in a Company's first round, though we do retain reserves for all portfolio investments.
 
@@ -35,7 +33,7 @@ We believe our structure of a 2:1 first check to reserves ratio is beneficial fo
 4. It allows founders to more quickly close their seed rounds and get back to build their business - rather than spending months accumulating a series of smaller checks.
 
 ## Geographic Focus
-Starting Line is HQ'd in Chicago, IL and we are highly biased towards our hometown of Chicago and other underserved communities. However, we have no formal geographic policy - and instead are inspired by founders aiming to solve problems for average, everyday Americans. Our fund investments have ranged from New York to Austin to Los Angeles and our angel investments have criss-crossed the country from SF to NYC to Seattle and everything in between.
+Starting Line is HQ'd in Chicago, IL and we love backing the most ruthless builders in our backyard. However, we have no formal geographic policy - and instead are inspired by founders aiming to solve problems for average, everyday Americans. Our fund investments have ranged from New York to Austin to Los Angeles and our angel investments have criss-crossed the country from SF to NYC to Seattle and everything in between. Outside of Chicago, our highest density of investments are Los Angeles, Austin, and New York (in that order).
 
 ## Getting in Touch
 There is no right or wrong way to get in touch with us. A great cold e-mail is far superior than an intro from someone we don't know all that well.
