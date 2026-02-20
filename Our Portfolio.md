@@ -123,7 +123,7 @@
       <td> October, 2020 </td>
   </tr>
     <tr>
-      <td><a href="https://www.meetwithspot.com">Spot</a> </td>
+      <td><a href="https://www.upcraft.ai/">Upcraft (acq. Labelbox)</a> </td>
   <td><a href="https://www.linkedin.com/in/gregcaplan/">Greg Caplan</a></td>
       <td> Chicago, IL </td>
       <td> January, 2021 </td>
@@ -183,7 +183,7 @@
       <td> October, 2021 </td>
   </tr>
       <tr>
-  <td><a href="https://www.ubiquitousinfluence.com">Ubiquitious</a></td>
+  <td><a href="https://www.ubiquitousinfluence.com">Ubiquitious (acq. Humanz)</a></td>
   <td><a href="https://www.linkedin.com/in/jess-flack/">Jess Flack</a>, <a href="https://www.linkedin.com/in/brandongambucci/">Brandon Gambucci</a></td>
       <td> Chattanooga, TN </td>
       <td> October, 2021 </td>
@@ -384,6 +384,12 @@
   <td><a href="https://www.linkedin.com/in/arthurleopold/">Arthur Leopold</a></td>
       <td> New York, NY </td>
       <td> November, 2025 </td>
+  </tr>  
+                      <tr>
+  <td><a href="https://rodeorodeorodeo.com/welcome">Rodeo</a></td>
+  <td><a href="https://www.linkedin.com/in/sam-levy-869a8911/">Sam Levy</a>, <a href="https://www.linkedin.com/in/timmacgougan/">Tim Macgougan</a></td>
+      <td> New York, NY </td>
+      <td> January, 2026 </td>
   </tr>  
   </tr>  
   </table>  
