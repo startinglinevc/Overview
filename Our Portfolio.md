@@ -316,13 +316,13 @@
   </tr>  
               <tr>
   <td><a href="https://www.superpower.com/">Superpower</a></td>
-  <td>Jacob Peters</td>
+  <td><a href="https://www.linkedin.com/in/jacobdpeters/">Jacob Peters</a></td>
       <td> San Francisco, CA </td>
       <td> July, 2024 </td>
   </tr>  
                 <tr>
   <td><a href="https://outfitlabs.com/">Outfit Labs</a></td>
-  <td>Simon Qin</td>
+  <td><a href="https://www.linkedin.com/in/simon-qin/">Simon Qin</a></td>
       <td> Chicago, IL </td>
       <td> September, 2024 </td>
   </tr>  
@@ -332,15 +332,15 @@
       <td> Los Angeles, CA </td>
       <td> November, 2024 </td>
   </tr>  
-                    <tr>
-  <td>Stealth Consumer Health</td>
-  <td>Stealth</td>
-      <td> Midwest </td>
+                        <tr>
+  <td><a href="https://joincorr.com/">Corr</a></td>
+  <td>Jonathan Paull</td>
+      <td> New York, Midwest </td>
       <td> December, 2024 </td>
   </tr>  
                     <tr>
-  <td>Stealth Healthcare</td>
-  <td>Stealth</td>
+  <td><a href="https://pravatherapy.com/">Prava Therapy</a></td>
+  <td><a href="https://www.linkedin.com/in/tim-eby-9324b16/">Tim Eby</a>, <a href="https://www.linkedin.com/in/dusan-zelembaba/">Dusan Zelembaba</a></td>
       <td> Chicago, IL </td>
       <td> January, 2025 </td>
   </tr>  
@@ -351,8 +351,8 @@
       <td> April, 2025 </td>
   </tr>  
                       <tr>
-  <td>Stealth Media</td>
-  <td>Stealth</td>
+  <td><a href="https://every.to/">Every</a></td>
+  <td><a href="https://www.linkedin.com/in/danshipper/">Dan Shipper</a>, <a href="https://www.linkedin.com/in/brandongell/">Brandon Gell</a></td>
       <td> Brooklyn, NY </td>
       <td> April, 2025 </td>
   </tr>  
@@ -361,5 +361,29 @@
   <td>Stealth</td>
       <td> New York, NY </td>
       <td> April, 2025 </td>
+  </tr>  
+           <tr>
+  <td><a href="https://www.troveo.ai/">Troveo</a></td>
+  <td><a href="https://www.linkedin.com/in/mpesis/">Marty Pesis</a></td>
+      <td> Austin, TX </td>
+      <td> June, 2025 </td>
+                    <tr>
+  <td><a href="https://www.twocents.money/">Two Cents</a></td>
+  <td><a href="https://www.linkedin.com/in/duro/">Andi Duro</a></td>
+      <td> San Francisco, CA </td>
+      <td> August, 2025 </td>
+  </tr>  
+                        <tr>
+  <td><a href="https://www.golfn.com/">Golf'n</a></td>
+  <td><a href="https://www.linkedin.com/in/jaredmphillips/">Jared Phillips</a></td>
+      <td> Chicago, IL </td>
+      <td> August, 2025 </td>
+  </tr>  
+                            <tr>
+  <td><a href="https://www.agentio.com/">Agentio</a></td>
+  <td><a href="https://www.linkedin.com/in/arthurleopold/">Arthur Leopold</a></td>
+      <td> New York, NY </td>
+      <td> November, 2025 </td>
+  </tr>  
   </tr>  
   </table>  
