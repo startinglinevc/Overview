@@ -85,6 +85,5 @@ If we spend more than a few hours with your business and do not invest, we commi
 
 At Starting Line, we try to issue no frills, market standard term sheets that allow you to build your company on fair, non-punitive terms and work through the docs process quickly.
 
-A sample of our default term sheet can be: [found here](https://github.com/startinglinevc/Overview/blob/master/Starting%20Line%20-%20Sample%20Termsheet.pdf)
-
+A sample of our default term sheet can be: <a href="https://www.dropbox.com/scl/fi/iffog3xqspfy6qyn0ln2y/Starting-Line-Sample-Termsheet.pdf?rlkey=cdsdn416548i4ejte6gj4rgdn&st=obytpobf&dl=0)">found here.<a/>
 Though there will often be minor adaptations to the sample term sheet, the core of the offer will remain consistent.
