@@ -390,6 +390,23 @@
   <td><a href="https://www.linkedin.com/in/sam-levy-869a8911/">Sam Levy</a>, <a href="https://www.linkedin.com/in/timmacgougan/">Tim Macgougan</a></td>
       <td> New York, NY </td>
       <td> January, 2026 </td>
+</tr> 
+                          <tr>
+  <td><a href="https://brillneurotech.com/">Brill Neurotech</a></td>
+  <td><a href="https://www.linkedin.com/in/mehmetgunal/">Mehmet Gunal</a>, <a href="https://www.linkedin.com/in/corbettdrummey/">Corbett Drummey</a></td>
+      <td> San Francisco/Chicago </td>
+      <td> March, 2026 </td>
   </tr>  
+                              <tr>
+  <td><a href="https://www.forum.market/">Forum</a></td>
+  <td><a href="https://www.linkedin.com/in/owen-botkin/">Owen Botkin</a>, <a href="https://www.linkedin.com/in/joseph-philip-thomas/">Joseph Thomas</a></td>
+      <td> New York/Chicago </td>
+      <td> April, 2026 </td>
+  </tr>  
+                                  <tr>
+  <td><a href="https://tryfound.ai/">Found AI</a></td>
+  <td><a href="https://www.linkedin.com/in/evanjwray/">Evan Wray</a>, <a href="https://www.linkedin.com/in/seanmichaelobrien/">Sean O'Brien</a></td>
+      <td> Chicago </td>
+      <td> May, 2026 </td>
   </tr>  
   </table>  
