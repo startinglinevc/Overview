@@ -170,12 +170,6 @@
       <td> Chicago, IL </td>
       <td> July, 2021 </td>
   </tr>
-        <tr>
-  <td><a href="https://www.gobuncha.com">Buncha</a></td>
-  <td><a href="https://www.linkedin.com/in/bpulgam/">Bharat Pulgam</a></td>
-      <td> Minneapolis, MN </td>
-      <td> September, 2021 </td>
-  </tr>
           <tr>
   <td><a href="https://www.umamicart.com">Umamicart (acq. Shef)</a></td>
   <td><a href="https://www.linkedin.com/in/andrea-xu-she-her-35ba9435/">Andrea Xu</a>, <a href="https://www.linkedin.com/in/wsumnernichols/">Will Nichols</a></td>
